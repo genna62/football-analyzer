@@ -1,0 +1,81 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2021,20/09/2020,Newcastle,Brighton,0,2,A,0,3,A,7,1,8
+2021,03/10/2020,Newcastle,Burnley,1,0,H,3,1,H,3,4,7
+2021,17/10/2020,Newcastle,Man United,1,1,D,1,4,A,0,7,7
+2021,01/11/2020,Newcastle,Everton,0,0,D,2,1,H,5,4,9
+2021,21/11/2020,Newcastle,Chelsea,0,1,A,0,2,A,7,4,11
+2021,12/12/2020,Newcastle,West Brom,1,0,H,2,1,H,4,3,7
+2021,19/12/2020,Newcastle,Fulham,0,1,A,1,1,D,2,9,11
+2021,30/12/2020,Newcastle,Liverpool,0,0,D,0,0,D,5,12,17
+2021,03/01/2021,Newcastle,Leicester,0,0,D,1,2,A,3,6,9
+2021,26/01/2021,Newcastle,Leeds,0,1,A,1,2,A,9,5,14
+2021,02/02/2021,Newcastle,Crystal Palace,1,2,A,1,2,A,9,1,10
+2021,06/02/2021,Newcastle,Southampton,3,1,H,3,2,H,0,7,7
+2021,27/02/2021,Newcastle,Wolves,0,0,D,1,1,D,3,5,8
+2021,12/03/2021,Newcastle,Aston Villa,0,0,D,1,1,D,2,2,4
+2021,04/04/2021,Newcastle,Tottenham,1,2,A,2,2,D,7,3,10
+2021,17/04/2021,Newcastle,West Ham,2,0,H,3,2,H,3,8,11
+2021,02/05/2021,Newcastle,Arsenal,0,1,A,0,2,A,3,7,10
+2021,14/05/2021,Newcastle,Man City,2,2,D,3,4,A,4,5,9
+2021,19/05/2021,Newcastle,Sheffield United,1,0,H,1,0,H,5,2,7
+2122,15/08/2021,Newcastle,West Ham,2,1,H,2,4,A,7,6,13
+2122,28/08/2021,Newcastle,Southampton,0,0,D,2,2,D,4,4,8
+2122,17/09/2021,Newcastle,Leeds,1,1,D,1,1,D,4,5,9
+2122,17/10/2021,Newcastle,Tottenham,1,3,A,2,3,A,2,9,11
+2122,30/10/2021,Newcastle,Chelsea,0,0,D,0,3,A,0,2,2
+2122,20/11/2021,Newcastle,Brentford,2,2,D,3,3,D,8,2,10
+2122,30/11/2021,Newcastle,Norwich,0,0,D,1,1,D,2,5,7
+2122,04/12/2021,Newcastle,Burnley,1,0,H,1,0,H,10,3,13
+2122,19/12/2021,Newcastle,Man City,0,2,A,0,4,A,3,6,9
+2122,27/12/2021,Newcastle,Man United,1,0,H,1,1,D,2,4,6
+2122,15/01/2022,Newcastle,Watford,0,0,D,1,1,D,4,6,10
+2122,08/02/2022,Newcastle,Everton,1,1,D,3,1,H,6,2,8
+2122,13/02/2022,Newcastle,Aston Villa,1,0,H,1,0,H,3,6,9
+2122,05/03/2022,Newcastle,Brighton,2,0,H,2,1,H,4,7,11
+2122,08/04/2022,Newcastle,Wolves,0,0,D,1,0,H,1,2,3
+2122,17/04/2022,Newcastle,Leicester,1,1,D,2,1,H,3,5,8
+2122,20/04/2022,Newcastle,Crystal Palace,1,0,H,1,0,H,2,5,7
+2122,30/04/2022,Newcastle,Liverpool,0,1,A,0,1,A,0,6,6
+2122,16/05/2022,Newcastle,Arsenal,0,0,D,2,0,H,12,8,20
+2223,06/08/2022,Newcastle,Nott'm Forest,0,0,D,2,0,H,11,1,12
+2223,21/08/2022,Newcastle,Man City,2,1,H,3,3,D,5,5,10
+2223,03/09/2022,Newcastle,Crystal Palace,0,0,D,0,0,D,13,5,18
+2223,17/09/2022,Newcastle,Bournemouth,0,0,D,1,1,D,8,1,9
+2223,08/10/2022,Newcastle,Brentford,2,0,H,5,1,H,9,5,14
+2223,19/10/2022,Newcastle,Everton,1,0,H,1,0,H,8,2,10
+2223,29/10/2022,Newcastle,Aston Villa,1,0,H,4,0,H,3,0,3
+2223,12/11/2022,Newcastle,Chelsea,0,0,D,1,0,H,5,3,8
+2223,31/12/2022,Newcastle,Leeds,0,0,D,0,0,D,9,3,12
+2223,15/01/2023,Newcastle,Fulham,0,0,D,1,0,H,10,5,15
+2223,04/02/2023,Newcastle,West Ham,1,1,D,1,1,D,4,2,6
+2223,18/02/2023,Newcastle,Liverpool,0,2,A,0,2,A,6,7,13
+2223,12/03/2023,Newcastle,Wolves,1,0,H,2,1,H,10,3,13
+2223,02/04/2023,Newcastle,Man United,0,0,D,2,0,H,7,4,11
+2223,23/04/2023,Newcastle,Tottenham,5,0,H,6,1,H,9,3,12
+2223,30/04/2023,Newcastle,Southampton,0,1,A,3,1,H,11,2,13
+2223,07/05/2023,Newcastle,Arsenal,0,1,A,0,2,A,9,4,13
+2223,18/05/2023,Newcastle,Brighton,2,0,H,4,1,H,6,1,7
+2223,22/05/2023,Newcastle,Leicester,0,0,D,0,0,D,12,1,13
+2324,12/08/2023,Newcastle,Aston Villa,2,1,H,5,1,H,6,5,11
+2324,27/08/2023,Newcastle,Liverpool,1,0,H,1,2,A,5,9,14
+2324,16/09/2023,Newcastle,Brentford,0,0,D,1,0,H,8,3,11
+2324,30/09/2023,Newcastle,Burnley,1,0,H,2,0,H,5,3,8
+2324,21/10/2023,Newcastle,Crystal Palace,3,0,H,4,0,H,6,8,14
+2324,04/11/2023,Newcastle,Arsenal,0,0,D,1,0,H,0,11,11
+2324,25/11/2023,Newcastle,Chelsea,1,1,D,4,1,H,4,2,6
+2324,02/12/2023,Newcastle,Man United,0,0,D,1,0,H,7,3,10
+2324,16/12/2023,Newcastle,Fulham,0,0,D,3,0,H,5,1,6
+2324,26/12/2023,Newcastle,Nott'm Forest,1,1,D,1,3,A,10,2,12
+2324,13/01/2024,Newcastle,Man City,2,1,H,2,3,A,3,13,16
+2324,03/02/2024,Newcastle,Luton,2,2,D,4,4,D,8,2,10
+2324,17/02/2024,Newcastle,Bournemouth,0,0,D,2,2,D,4,2,6
+2324,02/03/2024,Newcastle,Wolves,2,0,H,3,0,H,3,5,8
+2324,30/03/2024,Newcastle,West Ham,1,2,A,4,3,H,3,4,7
+2324,02/04/2024,Newcastle,Everton,1,0,H,1,1,D,7,3,10
+2324,13/04/2024,Newcastle,Tottenham,2,0,H,4,0,H,16,3,19
+2324,27/04/2024,Newcastle,Sheffield United,1,1,D,5,1,H,4,5,9
+2324,11/05/2024,Newcastle,Brighton,1,1,D,1,1,D,8,4,12
+2425,17/08/2024,Newcastle,Southampton,1,0,H,1,0,H,3,12,15
+2425,01/09/2024,Newcastle,Tottenham,1,0,H,2,1,H,7,12,19
+2425,28/09/2024,Newcastle,Man City,0,1,A,1,1,D,5,6,11
+2425,19/10/2024,Newcastle,Brighton,0,1,A,0,1,A,9,4,13

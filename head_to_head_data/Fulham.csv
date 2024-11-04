@@ -1,0 +1,62 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2021,12/09/2020,Fulham,Arsenal,0,1,A,0,3,A,2,3,5
+2021,28/09/2020,Fulham,Aston Villa,0,2,A,0,3,A,5,3,8
+2021,24/10/2020,Fulham,Crystal Palace,0,1,A,1,2,A,4,4,8
+2021,02/11/2020,Fulham,West Brom,2,0,H,2,0,H,5,2,7
+2021,22/11/2020,Fulham,Everton,1,3,A,2,3,A,2,5,7
+2021,13/12/2020,Fulham,Liverpool,1,0,H,1,1,D,6,8,14
+2021,16/12/2020,Fulham,Brighton,0,0,D,0,0,D,1,8,9
+2021,26/12/2020,Fulham,Southampton,0,0,D,0,0,D,6,3,9
+2021,16/01/2021,Fulham,Chelsea,0,0,D,0,1,A,1,12,13
+2021,20/01/2021,Fulham,Man United,1,1,D,1,2,A,2,8,10
+2021,03/02/2021,Fulham,Leicester,0,2,A,0,2,A,5,2,7
+2021,06/02/2021,Fulham,West Ham,0,0,D,0,0,D,7,3,10
+2021,20/02/2021,Fulham,Sheffield United,0,0,D,1,0,H,6,4,10
+2021,04/03/2021,Fulham,Tottenham,0,1,A,0,1,A,4,1,5
+2021,13/03/2021,Fulham,Man City,0,0,D,0,3,A,4,2,6
+2021,19/03/2021,Fulham,Leeds,1,1,D,1,2,A,13,7,20
+2021,09/04/2021,Fulham,Wolves,0,0,D,0,1,A,3,4,7
+2021,10/05/2021,Fulham,Burnley,0,2,A,0,2,A,8,4,12
+2021,23/05/2021,Fulham,Newcastle,0,1,A,0,2,A,5,4,9
+2223,06/08/2022,Fulham,Liverpool,1,0,H,2,2,D,4,4,8
+2223,20/08/2022,Fulham,Brentford,2,1,H,3,2,H,6,3,9
+2223,30/08/2022,Fulham,Brighton,0,0,D,2,1,H,3,3,6
+2223,01/10/2022,Fulham,Newcastle,0,3,A,1,4,A,1,8,9
+2223,15/10/2022,Fulham,Bournemouth,1,2,A,2,2,D,5,6,11
+2223,20/10/2022,Fulham,Aston Villa,1,0,H,3,0,H,9,7,16
+2223,29/10/2022,Fulham,Everton,0,0,D,0,0,D,13,4,17
+2223,13/11/2022,Fulham,Man United,0,1,A,1,2,A,10,3,13
+2223,31/12/2022,Fulham,Southampton,1,0,H,2,1,H,4,4,8
+2223,12/01/2023,Fulham,Chelsea,1,0,H,2,1,H,5,7,12
+2223,23/01/2023,Fulham,Tottenham,0,1,A,0,1,A,3,8,11
+2223,11/02/2023,Fulham,Nott'm Forest,1,0,H,2,0,H,5,4,9
+2223,24/02/2023,Fulham,Wolves,0,1,A,1,1,D,4,3,7
+2223,12/03/2023,Fulham,Arsenal,0,3,A,0,3,A,4,8,12
+2223,08/04/2023,Fulham,West Ham,0,1,A,0,1,A,11,4,15
+2223,22/04/2023,Fulham,Leeds,0,0,D,2,1,H,8,6,14
+2223,30/04/2023,Fulham,Man City,1,2,A,1,2,A,2,5,7
+2223,08/05/2023,Fulham,Leicester,3,0,H,5,3,H,2,7,9
+2223,20/05/2023,Fulham,Crystal Palace,1,1,D,2,2,D,7,4,11
+2324,19/08/2023,Fulham,Brentford,0,1,A,0,3,A,5,5,10
+2324,16/09/2023,Fulham,Luton,0,0,D,1,0,H,6,2,8
+2324,02/10/2023,Fulham,Chelsea,0,2,A,0,2,A,8,1,9
+2324,07/10/2023,Fulham,Sheffield United,0,0,D,3,1,H,9,4,13
+2324,04/11/2023,Fulham,Man United,0,0,D,0,1,A,9,4,13
+2324,27/11/2023,Fulham,Wolves,1,1,D,3,2,H,6,2,8
+2324,06/12/2023,Fulham,Nott'm Forest,2,0,H,5,0,H,6,1,7
+2324,10/12/2023,Fulham,West Ham,3,0,H,5,0,H,3,6,9
+2324,23/12/2023,Fulham,Burnley,0,0,D,0,2,A,8,6,14
+2324,31/12/2023,Fulham,Arsenal,1,1,D,2,1,H,5,4,9
+2324,30/01/2024,Fulham,Everton,0,0,D,0,0,D,15,6,21
+2324,10/02/2024,Fulham,Bournemouth,2,0,H,3,1,H,1,14,15
+2324,17/02/2024,Fulham,Aston Villa,0,1,A,1,2,A,4,4,8
+2324,02/03/2024,Fulham,Brighton,2,0,H,3,0,H,2,6,8
+2324,16/03/2024,Fulham,Tottenham,1,0,H,3,0,H,4,5,9
+2324,06/04/2024,Fulham,Newcastle,0,0,D,0,1,A,14,3,17
+2324,21/04/2024,Fulham,Liverpool,1,1,D,1,3,A,1,4,5
+2324,27/04/2024,Fulham,Crystal Palace,0,0,D,1,1,D,5,9,14
+2324,11/05/2024,Fulham,Man City,0,1,A,0,4,A,1,7,8
+2425,24/08/2024,Fulham,Leicester,1,1,D,2,1,H,7,5,12
+2425,14/09/2024,Fulham,West Ham,1,0,H,1,1,D,3,2,5
+2425,21/09/2024,Fulham,Newcastle,2,0,H,3,1,H,6,0,6
+2425,19/10/2024,Fulham,Aston Villa,1,1,D,1,3,A,6,11,17

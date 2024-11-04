@@ -1,0 +1,20 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2324,01/09/2023,Luton,West Ham,0,1,A,1,2,A,9,6,15
+2324,23/09/2023,Luton,Wolves,0,0,D,1,1,D,10,1,11
+2324,03/10/2023,Luton,Burnley,0,1,A,1,2,A,7,6,13
+2324,07/10/2023,Luton,Tottenham,0,0,D,0,1,A,5,6,11
+2324,05/11/2023,Luton,Liverpool,0,0,D,1,1,D,4,7,11
+2324,25/11/2023,Luton,Crystal Palace,0,0,D,2,1,H,4,5,9
+2324,05/12/2023,Luton,Arsenal,1,2,A,3,4,A,3,8,11
+2324,10/12/2023,Luton,Man City,1,0,H,1,2,A,6,3,9
+2324,23/12/2023,Luton,Newcastle,1,0,H,1,0,H,6,7,13
+2324,30/12/2023,Luton,Chelsea,0,2,A,2,3,A,7,2,9
+2324,30/01/2024,Luton,Brighton,3,0,H,4,0,H,7,4,11
+2324,10/02/2024,Luton,Sheffield United,0,2,A,1,3,A,13,1,14
+2324,18/02/2024,Luton,Man United,1,2,A,1,2,A,8,6,14
+2324,02/03/2024,Luton,Aston Villa,0,2,A,2,3,A,8,6,14
+2324,16/03/2024,Luton,Nott'm Forest,0,1,A,1,1,D,6,7,13
+2324,06/04/2024,Luton,Bournemouth,0,0,D,2,1,H,7,2,9
+2324,20/04/2024,Luton,Brentford,0,2,A,1,5,A,4,9,13
+2324,03/05/2024,Luton,Everton,1,1,D,1,1,D,8,7,15
+2324,19/05/2024,Luton,Fulham,1,2,A,2,4,A,4,4,8

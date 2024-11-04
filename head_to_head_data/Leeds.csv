@@ -1,0 +1,58 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2021,19/09/2020,Leeds,Fulham,2,1,H,4,3,H,5,3,8
+2021,03/10/2020,Leeds,Man City,0,1,A,1,1,D,7,10,17
+2021,19/10/2020,Leeds,Wolves,0,0,D,0,1,A,8,3,11
+2021,02/11/2020,Leeds,Leicester,0,2,A,1,4,A,10,3,13
+2021,22/11/2020,Leeds,Arsenal,0,0,D,0,0,D,5,3,8
+2021,11/12/2020,Leeds,West Ham,1,1,D,1,2,A,5,6,11
+2021,16/12/2020,Leeds,Newcastle,1,1,D,5,2,H,7,4,11
+2021,27/12/2020,Leeds,Burnley,1,0,H,1,0,H,4,12,16
+2021,16/01/2021,Leeds,Brighton,0,1,A,0,1,A,5,2,7
+2021,03/02/2021,Leeds,Everton,0,2,A,1,2,A,7,1,8
+2021,08/02/2021,Leeds,Crystal Palace,1,0,H,2,0,H,5,3,8
+2021,23/02/2021,Leeds,Southampton,0,0,D,3,0,H,2,4,6
+2021,27/02/2021,Leeds,Aston Villa,0,1,A,0,1,A,7,5,12
+2021,13/03/2021,Leeds,Chelsea,0,0,D,0,0,D,8,5,13
+2021,03/04/2021,Leeds,Sheffield United,1,1,D,2,1,H,5,7,12
+2021,19/04/2021,Leeds,Liverpool,0,1,A,1,1,D,10,8,18
+2021,25/04/2021,Leeds,Man United,0,0,D,0,0,D,2,6,8
+2021,08/05/2021,Leeds,Tottenham,2,1,H,3,1,H,8,6,14
+2021,23/05/2021,Leeds,West Brom,2,0,H,3,1,H,8,3,11
+2122,21/08/2021,Leeds,Everton,1,1,D,2,2,D,8,5,13
+2122,12/09/2021,Leeds,Liverpool,0,1,A,0,3,A,2,11,13
+2122,25/09/2021,Leeds,West Ham,1,0,H,1,2,A,5,7,12
+2122,02/10/2021,Leeds,Watford,1,0,H,1,0,H,6,3,9
+2122,23/10/2021,Leeds,Wolves,0,1,A,1,1,D,6,3,9
+2122,07/11/2021,Leeds,Leicester,1,1,D,1,1,D,10,5,15
+2122,30/11/2021,Leeds,Crystal Palace,0,0,D,1,0,H,7,4,11
+2122,05/12/2021,Leeds,Brentford,1,0,H,2,2,D,5,1,6
+2122,18/12/2021,Leeds,Arsenal,0,3,A,1,4,A,1,4,5
+2122,02/01/2022,Leeds,Burnley,1,0,H,3,1,H,9,3,12
+2122,22/01/2022,Leeds,Newcastle,0,0,D,0,1,A,6,7,13
+2122,20/02/2022,Leeds,Man United,0,2,A,2,4,A,3,3,6
+2122,26/02/2022,Leeds,Tottenham,0,3,A,0,4,A,3,6,9
+2122,10/03/2022,Leeds,Aston Villa,0,1,A,0,3,A,3,5,8
+2122,13/03/2022,Leeds,Norwich,1,0,H,2,1,H,6,2,8
+2122,02/04/2022,Leeds,Southampton,1,0,H,1,1,D,4,7,11
+2122,30/04/2022,Leeds,Man City,0,1,A,0,4,A,3,6,9
+2122,11/05/2022,Leeds,Chelsea,0,1,A,0,3,A,1,5,6
+2122,15/05/2022,Leeds,Brighton,0,1,A,1,1,D,8,1,9
+2223,06/08/2022,Leeds,Wolves,1,1,D,2,1,H,6,4,10
+2223,21/08/2022,Leeds,Chelsea,2,0,H,3,0,H,4,6,10
+2223,30/08/2022,Leeds,Everton,0,1,A,1,1,D,10,2,12
+2223,02/10/2022,Leeds,Aston Villa,0,0,D,0,0,D,2,9,11
+2223,16/10/2022,Leeds,Arsenal,0,1,A,0,1,A,6,3,9
+2223,23/10/2022,Leeds,Fulham,1,1,D,2,3,A,3,6,9
+2223,05/11/2022,Leeds,Bournemouth,1,2,A,4,3,H,13,3,16
+2223,28/12/2022,Leeds,Man City,0,1,A,1,3,A,3,5,8
+2223,04/01/2023,Leeds,West Ham,1,1,D,2,2,D,8,1,9
+2223,22/01/2023,Leeds,Brentford,0,0,D,0,0,D,2,3,5
+2223,12/02/2023,Leeds,Man United,0,0,D,0,2,A,7,3,10
+2223,25/02/2023,Leeds,Southampton,0,0,D,1,0,H,9,2,11
+2223,11/03/2023,Leeds,Brighton,1,1,D,2,2,D,4,7,11
+2223,04/04/2023,Leeds,Nott'm Forest,2,1,H,2,1,H,11,4,15
+2223,09/04/2023,Leeds,Crystal Palace,1,1,D,1,5,A,2,4,6
+2223,17/04/2023,Leeds,Liverpool,0,2,A,1,6,A,4,2,6
+2223,25/04/2023,Leeds,Leicester,1,0,H,1,1,D,3,6,9
+2223,13/05/2023,Leeds,Newcastle,1,1,D,2,2,D,2,6,8
+2223,28/05/2023,Leeds,Tottenham,0,1,A,1,4,A,12,3,15

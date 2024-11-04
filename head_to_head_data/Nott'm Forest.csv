@@ -1,0 +1,43 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2223,14/08/2022,Nott'm Forest,West Ham,1,0,H,1,0,H,6,7,13
+2223,28/08/2022,Nott'm Forest,Tottenham,0,1,A,0,2,A,6,1,7
+2223,03/09/2022,Nott'm Forest,Bournemouth,2,0,H,2,3,A,4,6,10
+2223,16/09/2022,Nott'm Forest,Fulham,1,0,H,2,3,A,2,10,12
+2223,10/10/2022,Nott'm Forest,Aston Villa,1,1,D,1,1,D,1,4,5
+2223,22/10/2022,Nott'm Forest,Liverpool,0,0,D,1,0,H,2,11,13
+2223,05/11/2022,Nott'm Forest,Brentford,1,1,D,2,2,D,3,3,6
+2223,12/11/2022,Nott'm Forest,Crystal Palace,0,0,D,1,0,H,1,5,6
+2223,01/01/2023,Nott'm Forest,Chelsea,0,1,A,1,1,D,1,2,3
+2223,14/01/2023,Nott'm Forest,Leicester,0,0,D,2,0,H,3,5,8
+2223,05/02/2023,Nott'm Forest,Leeds,1,0,H,1,0,H,0,2,2
+2223,18/02/2023,Nott'm Forest,Man City,0,1,A,1,1,D,0,10,10
+2223,05/03/2023,Nott'm Forest,Everton,1,2,A,2,2,D,3,3,6
+2223,17/03/2023,Nott'm Forest,Newcastle,1,1,D,1,2,A,3,7,10
+2223,01/04/2023,Nott'm Forest,Wolves,1,0,H,1,1,D,4,3,7
+2223,16/04/2023,Nott'm Forest,Man United,0,1,A,0,2,A,4,9,13
+2223,26/04/2023,Nott'm Forest,Brighton,1,1,D,3,1,H,2,7,9
+2223,08/05/2023,Nott'm Forest,Southampton,3,1,H,4,3,H,2,11,13
+2223,20/05/2023,Nott'm Forest,Arsenal,1,0,H,1,0,H,3,6,9
+2324,18/08/2023,Nott'm Forest,Sheffield United,1,0,H,2,1,H,6,7,13
+2324,18/09/2023,Nott'm Forest,Burnley,0,1,A,1,1,D,5,4,9
+2324,01/10/2023,Nott'm Forest,Brentford,0,0,D,1,1,D,1,11,12
+2324,21/10/2023,Nott'm Forest,Luton,0,0,D,2,2,D,4,2,6
+2324,05/11/2023,Nott'm Forest,Aston Villa,1,0,H,2,0,H,0,10,10
+2324,25/11/2023,Nott'm Forest,Brighton,1,2,A,2,3,A,6,4,10
+2324,02/12/2023,Nott'm Forest,Everton,0,0,D,0,1,A,4,3,7
+2324,15/12/2023,Nott'm Forest,Tottenham,0,1,A,0,2,A,6,4,10
+2324,23/12/2023,Nott'm Forest,Bournemouth,0,0,D,2,3,A,6,6,12
+2324,30/12/2023,Nott'm Forest,Man United,0,0,D,2,1,H,4,5,9
+2324,30/01/2024,Nott'm Forest,Arsenal,0,0,D,1,2,A,2,11,13
+2324,10/02/2024,Nott'm Forest,Newcastle,2,2,D,2,3,A,4,4,8
+2324,17/02/2024,Nott'm Forest,West Ham,1,0,H,2,0,H,5,3,8
+2324,02/03/2024,Nott'm Forest,Liverpool,0,0,D,0,1,A,3,12,15
+2324,30/03/2024,Nott'm Forest,Crystal Palace,0,1,A,1,1,D,4,6,10
+2324,02/04/2024,Nott'm Forest,Fulham,3,0,H,3,1,H,3,8,11
+2324,13/04/2024,Nott'm Forest,Wolves,1,1,D,2,2,D,10,1,11
+2324,28/04/2024,Nott'm Forest,Man City,0,1,A,0,2,A,4,5,9
+2324,11/05/2024,Nott'm Forest,Chelsea,1,1,D,2,3,A,5,6,11
+2425,17/08/2024,Nott'm Forest,Bournemouth,1,0,H,1,1,D,2,6,8
+2425,31/08/2024,Nott'm Forest,Wolves,1,1,D,1,1,D,7,3,10
+2425,28/09/2024,Nott'm Forest,Fulham,0,0,D,0,1,A,6,5,11
+2425,21/10/2024,Nott'm Forest,Crystal Palace,0,0,D,1,0,H,6,6,12

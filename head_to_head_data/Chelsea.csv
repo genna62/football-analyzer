@@ -1,0 +1,82 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2021,20/09/2020,Chelsea,Liverpool,0,0,D,0,2,A,1,11,12
+2021,03/10/2020,Chelsea,Crystal Palace,0,0,D,4,0,H,8,5,13
+2021,17/10/2020,Chelsea,Southampton,2,1,H,3,3,D,6,2,8
+2021,07/11/2020,Chelsea,Sheffield United,2,1,H,4,1,H,6,7,13
+2021,29/11/2020,Chelsea,Tottenham,0,0,D,0,0,D,3,3,6
+2021,05/12/2020,Chelsea,Leeds,1,1,D,3,1,H,8,4,12
+2021,21/12/2020,Chelsea,West Ham,1,0,H,3,0,H,5,4,9
+2021,28/12/2020,Chelsea,Aston Villa,1,0,H,1,1,D,11,4,15
+2021,03/01/2021,Chelsea,Man City,0,3,A,1,3,A,5,3,8
+2021,27/01/2021,Chelsea,Wolves,0,0,D,0,0,D,13,1,14
+2021,31/01/2021,Chelsea,Burnley,1,0,H,2,0,H,4,2,6
+2021,15/02/2021,Chelsea,Newcastle,2,0,H,2,0,H,10,5,15
+2021,28/02/2021,Chelsea,Man United,0,0,D,0,0,D,3,4,7
+2021,08/03/2021,Chelsea,Everton,1,0,H,2,0,H,7,3,10
+2021,03/04/2021,Chelsea,West Brom,1,2,A,2,5,A,10,3,13
+2021,20/04/2021,Chelsea,Brighton,0,0,D,0,0,D,0,3,3
+2021,01/05/2021,Chelsea,Fulham,1,0,H,2,0,H,1,8,9
+2021,12/05/2021,Chelsea,Arsenal,0,1,A,0,1,A,9,1,10
+2021,18/05/2021,Chelsea,Leicester,0,0,D,2,1,H,6,5,11
+2122,14/08/2021,Chelsea,Crystal Palace,2,0,H,3,0,H,5,2,7
+2122,11/09/2021,Chelsea,Aston Villa,1,0,H,3,0,H,4,11,15
+2122,25/09/2021,Chelsea,Man City,0,0,D,0,1,A,4,13,17
+2122,02/10/2021,Chelsea,Southampton,1,0,H,3,1,H,7,2,9
+2122,23/10/2021,Chelsea,Norwich,3,0,H,7,0,H,5,0,5
+2122,06/11/2021,Chelsea,Burnley,1,0,H,1,1,D,14,2,16
+2122,28/11/2021,Chelsea,Man United,0,0,D,1,1,D,15,2,17
+2122,11/12/2021,Chelsea,Leeds,1,1,D,3,2,H,5,2,7
+2122,16/12/2021,Chelsea,Everton,0,0,D,1,1,D,7,1,8
+2122,29/12/2021,Chelsea,Brighton,1,0,H,1,1,D,10,8,18
+2122,02/01/2022,Chelsea,Liverpool,2,2,D,2,2,D,6,7,13
+2122,23/01/2022,Chelsea,Tottenham,0,0,D,2,0,H,10,3,13
+2122,13/03/2022,Chelsea,Newcastle,0,0,D,1,0,H,7,2,9
+2122,02/04/2022,Chelsea,Brentford,0,0,D,1,4,A,12,7,19
+2122,20/04/2022,Chelsea,Arsenal,2,2,D,2,4,A,6,1,7
+2122,24/04/2022,Chelsea,West Ham,0,0,D,1,0,H,3,1,4
+2122,07/05/2022,Chelsea,Wolves,0,0,D,2,2,D,9,3,12
+2122,19/05/2022,Chelsea,Leicester,1,1,D,1,1,D,6,0,6
+2122,22/05/2022,Chelsea,Watford,1,0,H,2,1,H,3,3,6
+2223,14/08/2022,Chelsea,Tottenham,1,0,H,2,2,D,8,5,13
+2223,27/08/2022,Chelsea,Leicester,0,0,D,2,1,H,3,11,14
+2223,03/09/2022,Chelsea,West Ham,0,0,D,2,1,H,10,3,13
+2223,08/10/2022,Chelsea,Wolves,1,0,H,3,0,H,4,2,6
+2223,22/10/2022,Chelsea,Man United,0,0,D,1,1,D,6,4,10
+2223,06/11/2022,Chelsea,Arsenal,0,0,D,0,1,A,4,6,10
+2223,27/12/2022,Chelsea,Bournemouth,2,0,H,2,0,H,6,8,14
+2223,05/01/2023,Chelsea,Man City,0,0,D,0,1,A,3,2,5
+2223,15/01/2023,Chelsea,Crystal Palace,0,0,D,1,0,H,11,7,18
+2223,03/02/2023,Chelsea,Fulham,0,0,D,0,0,D,6,2,8
+2223,18/02/2023,Chelsea,Southampton,0,1,A,0,1,A,8,2,10
+2223,04/03/2023,Chelsea,Leeds,0,0,D,1,0,H,5,7,12
+2223,18/03/2023,Chelsea,Everton,0,0,D,2,2,D,8,2,10
+2223,01/04/2023,Chelsea,Aston Villa,0,1,A,0,2,A,13,2,15
+2223,04/04/2023,Chelsea,Liverpool,0,0,D,0,0,D,3,5,8
+2223,15/04/2023,Chelsea,Brighton,1,1,D,1,2,A,2,8,10
+2223,26/04/2023,Chelsea,Brentford,0,1,A,0,2,A,5,2,7
+2223,13/05/2023,Chelsea,Nott'm Forest,0,1,A,2,2,D,2,5,7
+2223,28/05/2023,Chelsea,Newcastle,1,1,D,1,1,D,10,3,13
+2324,13/08/2023,Chelsea,Liverpool,1,1,D,1,1,D,4,4,8
+2324,25/08/2023,Chelsea,Luton,1,0,H,3,0,H,6,4,10
+2324,02/09/2023,Chelsea,Nott'm Forest,0,0,D,0,1,A,8,0,8
+2324,24/09/2023,Chelsea,Aston Villa,0,0,D,0,1,A,5,11,16
+2324,21/10/2023,Chelsea,Arsenal,1,0,H,2,2,D,2,7,9
+2324,28/10/2023,Chelsea,Brentford,0,0,D,0,2,A,10,1,11
+2324,12/11/2023,Chelsea,Man City,2,2,D,4,4,D,3,3,6
+2324,03/12/2023,Chelsea,Brighton,2,1,H,3,2,H,5,8,13
+2324,16/12/2023,Chelsea,Sheffield United,0,0,D,2,0,H,7,6,13
+2324,27/12/2023,Chelsea,Crystal Palace,1,1,D,2,1,H,4,3,7
+2324,13/01/2024,Chelsea,Fulham,1,0,H,1,0,H,6,4,10
+2324,04/02/2024,Chelsea,Wolves,1,2,A,2,4,A,10,1,11
+2324,11/03/2024,Chelsea,Newcastle,1,1,D,3,2,H,0,4,4
+2324,30/03/2024,Chelsea,Burnley,1,0,H,2,2,D,12,4,16
+2324,04/04/2024,Chelsea,Man United,2,2,D,4,3,H,12,3,15
+2324,15/04/2024,Chelsea,Everton,4,0,H,6,0,H,4,8,12
+2324,02/05/2024,Chelsea,Tottenham,1,0,H,2,0,H,4,9,13
+2324,05/05/2024,Chelsea,West Ham,3,0,H,5,0,H,8,6,14
+2324,19/05/2024,Chelsea,Bournemouth,1,0,H,2,1,H,6,5,11
+2425,18/08/2024,Chelsea,Man City,0,1,A,0,2,A,4,3,7
+2425,01/09/2024,Chelsea,Crystal Palace,1,0,H,1,1,D,4,5,9
+2425,28/09/2024,Chelsea,Brighton,4,2,H,4,2,H,8,2,10
+2425,06/10/2024,Chelsea,Nott'm Forest,0,0,D,1,1,D,11,3,14
+2425,27/10/2024,Chelsea,Newcastle,1,1,D,2,1,H,7,4,11
