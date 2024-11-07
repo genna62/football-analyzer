@@ -1,0 +1,56 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2021,20/09/2020,Moreirense,Farense,1,0,H,2,0,H,4,6,10
+2021,02/10/2020,Moreirense,Boavista,0,1,A,1,1,D,5,3,8
+2021,25/10/2020,Moreirense,Maritimo,2,0,H,2,1,H,9,3,12
+2021,01/12/2020,Moreirense,Pacos Ferreira,0,1,A,0,1,A,2,2,4
+2021,05/12/2020,Moreirense,Gil Vicente,0,0,D,1,1,D,1,2,3
+2021,29/12/2020,Moreirense,Santa Clara,0,0,D,1,0,H,2,0,2
+2021,09/01/2021,Moreirense,Guimaraes,1,1,D,2,2,D,2,3,5
+2021,24/01/2021,Moreirense,Portimonense,2,1,H,2,2,D,3,1,4
+2021,01/02/2021,Moreirense,Sp Braga,0,3,A,0,4,A,5,5,10
+2021,14/02/2021,Moreirense,Benfica,1,1,D,1,1,D,3,9,12
+2021,01/03/2021,Moreirense,Belenenses,2,1,H,2,2,D,4,5,9
+2021,14/03/2021,Moreirense,Rio Ave,0,1,A,1,1,D,7,5,12
+2021,05/04/2021,Moreirense,Sp Lisbon,0,1,A,1,1,D,2,4,6
+2021,17/04/2021,Moreirense,Tondela,2,3,A,2,3,A,5,3,8
+2021,26/04/2021,Moreirense,Porto,1,0,H,1,1,D,6,11,17
+2021,06/05/2021,Moreirense,Nacional,0,1,A,2,2,D,3,7,10
+2021,19/05/2021,Moreirense,Famalicao,2,0,H,3,0,H,6,3,9
+2122,07/08/2021,Moreirense,Benfica,1,2,A,1,2,A,0,6,6
+2122,20/08/2021,Moreirense,Sp Braga,0,2,A,2,3,A,6,0,6
+2122,12/09/2021,Moreirense,Famalicao,1,1,D,2,2,D,6,4,10
+2122,25/09/2021,Moreirense,Arouca,1,0,H,2,1,H,5,9,14
+2122,01/11/2021,Moreirense,Pacos Ferreira,0,0,D,1,1,D,4,7,11
+2122,26/11/2021,Moreirense,Gil Vicente,0,0,D,2,2,D,5,5,10
+2122,12/12/2021,Moreirense,Portimonense,0,0,D,0,1,A,6,1,7
+2122,28/12/2021,Moreirense,Estoril,1,0,H,1,0,H,7,11,18
+2122,22/01/2022,Moreirense,Santa Clara,0,1,A,0,2,A,2,3,5
+2122,07/02/2022,Moreirense,Belenenses,2,1,H,4,1,H,2,0,2
+2122,20/02/2022,Moreirense,Porto,0,1,A,0,1,A,2,9,11
+2122,06/03/2022,Moreirense,Maritimo,0,1,A,0,1,A,8,4,12
+2122,14/03/2022,Moreirense,Sp Lisbon,0,2,A,0,2,A,3,7,10
+2122,03/04/2022,Moreirense,Guimaraes,0,0,D,0,1,A,5,3,8
+2122,16/04/2022,Moreirense,Tondela,2,0,H,2,0,H,4,1,5
+2122,01/05/2022,Moreirense,Boavista,0,1,A,1,2,A,5,3,8
+2122,14/05/2022,Moreirense,Vizela,3,0,H,4,1,H,4,7,11
+2324,14/08/2023,Moreirense,Porto,0,0,D,1,2,A,5,10,15
+2324,09/09/2023,Moreirense,Sp Braga,2,1,H,2,3,A,4,5,9
+2324,23/09/2023,Moreirense,Farense,1,0,H,1,0,H,11,3,14
+2324,06/10/2023,Moreirense,Boavista,1,1,D,1,1,D,6,1,7
+2324,05/11/2023,Moreirense,Guimaraes,0,0,D,1,0,H,4,12,16
+2324,03/12/2023,Moreirense,Benfica,0,0,D,0,0,D,2,7,9
+2324,17/12/2023,Moreirense,Portimonense,2,1,H,5,2,H,7,7,14
+2324,08/01/2024,Moreirense,Casa Pia,1,3,A,1,4,A,4,3,7
+2324,28/01/2024,Moreirense,Famalicao,0,0,D,1,0,H,3,4,7
+2324,10/02/2024,Moreirense,Chaves,0,0,D,1,0,H,11,4,15
+2324,19/02/2024,Moreirense,Sp Lisbon,0,2,A,0,2,A,5,4,9
+2324,02/03/2024,Moreirense,Rio Ave,0,0,D,0,0,D,6,2,8
+2324,17/03/2024,Moreirense,Arouca,1,0,H,1,0,H,2,3,5
+2324,07/04/2024,Moreirense,Estrela,2,0,H,2,2,D,2,6,8
+2324,20/04/2024,Moreirense,Gil Vicente,0,1,A,0,1,A,8,1,9
+2324,03/05/2024,Moreirense,Vizela,1,0,H,1,0,H,4,5,9
+2324,18/05/2024,Moreirense,Estoril,1,0,H,2,1,H,2,6,8
+2425,18/08/2024,Moreirense,Arouca,2,1,H,3,1,H,7,5,12
+2425,30/08/2024,Moreirense,Benfica,0,0,D,1,1,D,0,8,8
+2425,21/09/2024,Moreirense,Famalicao,0,0,D,0,0,D,4,3,7
+2425,05/10/2024,Moreirense,Santa Clara,0,0,D,1,0,H,1,7,8

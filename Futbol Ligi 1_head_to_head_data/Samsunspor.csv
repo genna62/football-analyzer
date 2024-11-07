@@ -1,0 +1,26 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2324,21/08/2023,Samsunspor,Fenerbahce,0.0,0.0,D,0,2,A,2.0,5.0,7.0
+2324,29/09/2023,Samsunspor,Gaziantep,0.0,2.0,A,1,2,A,9.0,2.0,11.0
+2324,22/10/2023,Samsunspor,Buyuksehyr,0.0,0.0,D,0,0,D,8.0,0.0,8.0
+2324,04/11/2023,Samsunspor,Hatayspor,0.0,1.0,A,2,1,H,12.0,4.0,16.0
+2324,08/11/2023,Samsunspor,Istanbulspor,0.0,1.0,A,2,1,H,7.0,2.0,9.0
+2324,26/11/2023,Samsunspor,Besiktas,1.0,1.0,D,1,2,A,9.0,5.0,14.0
+2324,09/12/2023,Samsunspor,Kasimpasa,2.0,0.0,H,4,2,H,3.0,4.0,7.0
+2324,21/12/2023,Samsunspor,Konyaspor,0.0,1.0,A,1,1,D,4.0,8.0,12.0
+2324,06/01/2024,Samsunspor,Karagumruk,0.0,0.0,D,1,0,H,3.0,5.0,8.0
+2324,14/01/2024,Samsunspor,Sivasspor,2.0,0.0,H,2,0,H,5.0,2.0,7.0
+2324,25/01/2024,Samsunspor,Kayserispor,1.0,0.0,H,2,0,H,3.0,5.0,8.0
+2324,02/02/2024,Samsunspor,Galatasaray,0.0,2.0,A,0,2,A,4.0,4.0,8.0
+2324,12/02/2024,Samsunspor,Antalyaspor,0.0,0.0,D,2,0,H,3.0,2.0,5.0
+2324,23/02/2024,Samsunspor,Rizespor,1.0,0.0,H,3,0,H,2.0,8.0,10.0
+2324,10/03/2024,Samsunspor,Ankaragucu,1.0,1.0,D,2,1,H,2.0,2.0,4.0
+2324,04/04/2024,Samsunspor,Pendikspor,0.0,0.0,D,0,0,D,10.0,9.0,19.0
+2324,20/04/2024,Samsunspor,Ad. Demirspor,0.0,1.0,A,1,1,D,7.0,4.0,11.0
+2324,04/05/2024,Samsunspor,Trabzonspor,3.0,1.0,H,3,1,H,3.0,2.0,5.0
+2324,18/05/2024,Samsunspor,Alanyaspor,0.0,1.0,A,1,1,D,4.0,1.0,5.0
+2425,11/08/2024,Samsunspor,Besiktas,0,2,A,0,2,A,6,2,8
+2425,14/09/2024,Samsunspor,Konyaspor,0,1,A,0,1,A,12,1,13
+2425,18/09/2024,Samsunspor,Buyuksehyr,0,0,D,2,0,H,4,2,6
+2425,28/09/2024,Samsunspor,Goztep,1,2,A,4,3,H,6,3,9
+2425,20/10/2024,Samsunspor,Fenerbahce,0,1,A,2,2,D,4,2,6
+2425,04/11/2024,Samsunspor,Antalyaspor,1,0,H,2,0,H,5,2,7

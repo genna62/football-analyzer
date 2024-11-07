@@ -1,0 +1,45 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2223,22/08/2022,Girona,Getafe,1,0,H,3,1,H,5,2,7
+2223,26/08/2022,Girona,Celta,0,0,D,0,1,A,2,4,6
+2223,09/09/2022,Girona,Valladolid,1,1,D,2,1,H,3,12,15
+2223,02/10/2022,Girona,Sociedad,2,2,D,3,5,A,2,2,4
+2223,15/10/2022,Girona,Cadiz,0,0,D,1,1,D,6,2,8
+2223,23/10/2022,Girona,Osasuna,1,1,D,1,1,D,3,5,8
+2223,04/11/2022,Girona,Ath Bilbao,0,0,D,2,1,H,7,1,8
+2223,29/12/2022,Girona,Vallecano,1,1,D,2,2,D,2,4,6
+2223,14/01/2023,Girona,Sevilla,0,1,A,2,1,H,5,2,7
+2223,28/01/2023,Girona,Barcelona,0,0,D,0,1,A,4,2,6
+2223,05/02/2023,Girona,Valencia,0,0,D,1,0,H,8,4,12
+2223,17/02/2023,Girona,Almeria,4,0,H,6,2,H,1,7,8
+2223,13/03/2023,Girona,Ath Madrid,0,0,D,0,1,A,1,3,4
+2223,01/04/2023,Girona,Espanol,0,0,D,2,1,H,5,2,7
+2223,16/04/2023,Girona,Elche,1,0,H,2,0,H,3,4,7
+2223,25/04/2023,Girona,Real Madrid,2,1,H,4,2,H,3,8,11
+2223,04/05/2023,Girona,Mallorca,1,0,H,2,1,H,9,5,14
+2223,20/05/2023,Girona,Villarreal,1,1,D,1,2,A,3,1,4
+2223,28/05/2023,Girona,Betis,1,0,H,1,2,A,8,5,13
+2324,20/08/2023,Girona,Getafe,1,0,H,3,0,H,3,2,5
+2324,03/09/2023,Girona,Las Palmas,0,0,D,1,0,H,3,5,8
+2324,23/09/2023,Girona,Mallorca,4,1,H,5,3,H,6,5,11
+2324,30/09/2023,Girona,Real Madrid,0,2,A,0,3,A,1,4,5
+2324,22/10/2023,Girona,Almeria,3,2,H,5,2,H,9,6,15
+2324,27/10/2023,Girona,Celta,0,0,D,1,0,H,10,1,11
+2324,27/11/2023,Girona,Ath Bilbao,0,0,D,1,1,D,2,6,8
+2324,02/12/2023,Girona,Valencia,0,0,D,2,1,H,3,2,5
+2324,18/12/2023,Girona,Alaves,2,0,H,3,0,H,3,2,5
+2324,03/01/2024,Girona,Ath Madrid,3,2,H,4,3,H,7,8,15
+2324,21/01/2024,Girona,Sevilla,3,1,H,5,1,H,4,5,9
+2324,03/02/2024,Girona,Sociedad,0,0,D,0,0,D,3,4,7
+2324,26/02/2024,Girona,Vallecano,0,0,D,3,0,H,2,2,4
+2324,09/03/2024,Girona,Osasuna,1,0,H,2,0,H,5,7,12
+2324,31/03/2024,Girona,Betis,1,1,D,3,2,H,5,4,9
+2324,20/04/2024,Girona,Cadiz,2,0,H,4,1,H,2,4,6
+2324,04/05/2024,Girona,Barcelona,1,2,A,4,2,H,5,4,9
+2324,14/05/2024,Girona,Villarreal,0,0,D,0,1,A,5,1,6
+2324,24/05/2024,Girona,Granada,3,0,H,7,0,H,4,2,6
+2425,29/08/2024,Girona,Osasuna,1,0,H,4,0,H,5,0,5
+2425,15/09/2024,Girona,Barcelona,0,2,A,1,4,A,1,6,7
+2425,25/09/2024,Girona,Vallecano,0,0,D,0,0,D,4,3,7
+2425,06/10/2024,Girona,Ath Bilbao,1,1,D,2,1,H,6,1,7
+2425,19/10/2024,Girona,Sociedad,0,1,A,0,1,A,6,6,12
+2425,02/11/2024,Girona,Leganes,2,2,D,4,3,H,6,1,7

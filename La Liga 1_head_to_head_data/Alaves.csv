@@ -1,0 +1,64 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2021,13/09/2020,Alaves,Betis,0,0,D,0,1,A,6,4,10
+2021,26/09/2020,Alaves,Getafe,0,0,D,0,0,D,1,5,6
+2021,04/10/2020,Alaves,Ath Bilbao,0,0,D,1,0,H,0,6,6
+2021,18/10/2020,Alaves,Elche,0,1,A,0,2,A,2,6,8
+2021,31/10/2020,Alaves,Barcelona,1,0,H,1,1,D,2,14,16
+2021,22/11/2020,Alaves,Valencia,2,0,H,2,2,D,4,5,9
+2021,06/12/2020,Alaves,Sociedad,0,0,D,0,0,D,2,3,5
+2021,23/12/2020,Alaves,Eibar,2,1,H,2,1,H,2,7,9
+2021,03/01/2021,Alaves,Ath Madrid,0,1,A,1,2,A,1,5,6
+2021,19/01/2021,Alaves,Sevilla,1,2,A,1,2,A,3,2,5
+2021,23/01/2021,Alaves,Real Madrid,0,3,A,1,4,A,4,4,8
+2021,05/02/2021,Alaves,Valladolid,0,0,D,1,0,H,11,1,12
+2021,27/02/2021,Alaves,Osasuna,0,0,D,0,1,A,5,2,7
+2021,13/03/2021,Alaves,Cadiz,1,0,H,1,1,D,2,5,7
+2021,04/04/2021,Alaves,Celta,0,3,A,1,3,A,6,2,8
+2021,18/04/2021,Alaves,Huesca,0,0,D,1,0,H,7,3,10
+2021,21/04/2021,Alaves,Villarreal,1,0,H,2,1,H,3,8,11
+2021,08/05/2021,Alaves,Levante,1,2,A,2,2,D,8,3,11
+2021,16/05/2021,Alaves,Granada,2,1,H,4,2,H,6,1,7
+2122,14/08/2021,Alaves,Real Madrid,0,0,D,1,4,A,0,4,4
+2122,21/08/2021,Alaves,Mallorca,0,0,D,0,1,A,1,8,9
+2122,18/09/2021,Alaves,Osasuna,0,2,A,0,2,A,2,8,10
+2122,25/09/2021,Alaves,Ath Madrid,1,0,H,1,0,H,3,8,11
+2122,18/10/2021,Alaves,Betis,0,0,D,0,1,A,7,7,14
+2122,26/10/2021,Alaves,Elche,0,0,D,1,0,H,4,7,11
+2122,06/11/2021,Alaves,Levante,0,1,A,2,1,H,1,3,4
+2122,27/11/2021,Alaves,Celta,1,1,D,1,2,A,5,3,8
+2122,11/12/2021,Alaves,Getafe,0,1,A,1,1,D,1,1,2
+2122,02/01/2022,Alaves,Sociedad,0,1,A,1,1,D,2,3,5
+2122,09/01/2022,Alaves,Ath Bilbao,0,0,D,0,0,D,7,5,12
+2122,23/01/2022,Alaves,Barcelona,0,0,D,0,1,A,1,10,11
+2122,13/02/2022,Alaves,Valencia,1,0,H,2,1,H,5,9,14
+2122,04/03/2022,Alaves,Sevilla,0,0,D,0,0,D,5,5,10
+2122,19/03/2022,Alaves,Granada,0,0,D,2,3,A,6,2,8
+2122,16/04/2022,Alaves,Vallecano,0,0,D,1,0,H,2,12,14
+2122,30/04/2022,Alaves,Villarreal,2,0,H,2,1,H,5,8,13
+2122,11/05/2022,Alaves,Espanol,1,1,D,2,1,H,12,3,15
+2122,22/05/2022,Alaves,Cadiz,0,0,D,0,1,A,4,4,8
+2324,21/08/2023,Alaves,Sevilla,2,2,D,4,3,H,4,4,8
+2324,02/09/2023,Alaves,Valencia,1,0,H,1,0,H,1,2,3
+2324,22/09/2023,Alaves,Ath Bilbao,0,1,A,0,2,A,3,4,7
+2324,01/10/2023,Alaves,Osasuna,0,1,A,0,2,A,4,2,6
+2324,08/10/2023,Alaves,Betis,1,1,D,1,1,D,5,3,8
+2324,05/11/2023,Alaves,Almeria,0,0,D,1,0,H,12,6,18
+2324,24/11/2023,Alaves,Granada,2,0,H,3,1,H,6,2,8
+2324,09/12/2023,Alaves,Las Palmas,0,1,A,0,1,A,12,3,15
+2324,21/12/2023,Alaves,Real Madrid,0,0,D,0,1,A,3,3,6
+2324,19/01/2024,Alaves,Cadiz,0,0,D,1,0,H,4,4,8
+2324,03/02/2024,Alaves,Barcelona,0,1,A,1,3,A,14,5,19
+2324,10/02/2024,Alaves,Villarreal,1,1,D,1,1,D,10,9,19
+2324,24/02/2024,Alaves,Mallorca,0,0,D,1,1,D,3,3,6
+2324,10/03/2024,Alaves,Vallecano,1,0,H,1,0,H,7,5,12
+2324,31/03/2024,Alaves,Sociedad,0,0,D,0,1,A,3,8,11
+2324,21/04/2024,Alaves,Ath Madrid,1,0,H,2,0,H,1,11,12
+2324,27/04/2024,Alaves,Celta,0,0,D,3,0,H,8,3,11
+2324,10/05/2024,Alaves,Girona,1,2,A,2,2,D,5,3,8
+2324,18/05/2024,Alaves,Getafe,1,0,H,1,0,H,2,1,3
+2425,25/08/2024,Alaves,Betis,0,0,D,0,0,D,3,8,11
+2425,01/09/2024,Alaves,Las Palmas,1,0,H,2,0,H,6,5,11
+2425,20/09/2024,Alaves,Sevilla,1,0,H,2,1,H,3,5,8
+2425,06/10/2024,Alaves,Barcelona,0,3,A,0,3,A,11,3,14
+2425,18/10/2024,Alaves,Valladolid,1,1,D,2,3,A,5,6,11
+2425,01/11/2024,Alaves,Mallorca,0,0,D,1,0,H,7,2,9

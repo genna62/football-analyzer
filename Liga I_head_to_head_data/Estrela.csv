@@ -1,0 +1,23 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2324,13/08/2023,Estrela,Guimaraes,0,1,A,0,1,A,3,10,13
+2324,25/08/2023,Estrela,Estoril,0,0,D,2,1,H,8,8,16
+2324,15/09/2023,Estrela,Porto,0,1,A,0,1,A,10,6,16
+2324,28/09/2023,Estrela,Sp Braga,0,1,A,2,4,A,8,6,14
+2324,29/10/2023,Estrela,Famalicao,0,0,D,1,0,H,3,2,5
+2324,11/11/2023,Estrela,Moreirense,0,0,D,0,1,A,2,5,7
+2324,10/12/2023,Estrela,Boavista,0,0,D,3,1,H,2,4,6
+2324,28/12/2023,Estrela,Arouca,1,0,H,1,4,A,3,5,8
+2324,06/01/2024,Estrela,Vizela,1,0,H,1,1,D,6,4,10
+2324,29/01/2024,Estrela,Benfica,1,2,A,1,4,A,5,6,11
+2324,09/02/2024,Estrela,Portimonense,3,0,H,3,0,H,4,7,11
+2324,24/02/2024,Estrela,Chaves,1,1,D,1,1,D,7,6,13
+2324,08/03/2024,Estrela,Casa Pia,0,0,D,3,1,H,8,4,12
+2324,29/03/2024,Estrela,Sp Lisbon,1,2,A,1,2,A,3,7,10
+2324,14/04/2024,Estrela,Rio Ave,1,1,D,2,2,D,10,1,11
+2324,29/04/2024,Estrela,Farense,0,1,A,0,3,A,11,4,15
+2324,18/05/2024,Estrela,Gil Vicente,1,0,H,1,0,H,4,3,7
+2425,19/08/2024,Estrela,Famalicao,0,1,A,0,3,A,2,4,6
+2425,31/08/2024,Estrela,Casa Pia,0,0,D,0,1,A,2,7,9
+2425,16/09/2024,Estrela,Boavista,1,2,A,2,2,D,9,2,11
+2425,28/09/2024,Estrela,Moreirense,2,0,H,2,1,H,2,7,9
+2425,27/10/2024,Estrela,Guimaraes,1,1,D,2,2,D,3,4,7

@@ -1,0 +1,44 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2223,06/08/2022,Bournemouth,Aston Villa,1,0,H,2,0,H,5,5,10
+2223,20/08/2022,Bournemouth,Arsenal,0,2,A,0,3,A,3,4,7
+2223,31/08/2022,Bournemouth,Wolves,0,0,D,0,0,D,2,5,7
+2223,01/10/2022,Bournemouth,Brentford,0,0,D,0,0,D,7,8,15
+2223,08/10/2022,Bournemouth,Leicester,0,1,A,2,1,H,7,2,9
+2223,19/10/2022,Bournemouth,Southampton,0,1,A,0,1,A,7,3,10
+2223,29/10/2022,Bournemouth,Tottenham,1,0,H,2,3,A,2,19,21
+2223,12/11/2022,Bournemouth,Everton,2,0,H,3,0,H,3,5,8
+2223,31/12/2022,Bournemouth,Crystal Palace,0,2,A,0,2,A,2,7,9
+2223,21/01/2023,Bournemouth,Nott'm Forest,1,0,H,1,1,D,4,6,10
+2223,11/02/2023,Bournemouth,Newcastle,1,1,D,1,1,D,4,6,10
+2223,25/02/2023,Bournemouth,Man City,0,3,A,1,4,A,4,6,10
+2223,11/03/2023,Bournemouth,Liverpool,1,0,H,1,0,H,3,8,11
+2223,01/04/2023,Bournemouth,Fulham,0,1,A,2,1,H,4,3,7
+2223,04/04/2023,Bournemouth,Brighton,0,1,A,0,2,A,5,5,10
+2223,23/04/2023,Bournemouth,West Ham,0,3,A,0,4,A,8,5,13
+2223,30/04/2023,Bournemouth,Leeds,2,1,H,4,1,H,2,6,8
+2223,06/05/2023,Bournemouth,Chelsea,1,1,D,1,3,A,7,7,14
+2223,20/05/2023,Bournemouth,Man United,0,1,A,0,1,A,3,6,9
+2324,12/08/2023,Bournemouth,West Ham,0,0,D,1,1,D,10,4,14
+2324,26/08/2023,Bournemouth,Tottenham,0,1,A,0,2,A,6,2,8
+2324,17/09/2023,Bournemouth,Chelsea,0,0,D,0,0,D,1,7,8
+2324,30/09/2023,Bournemouth,Arsenal,0,2,A,0,4,A,6,6,12
+2324,21/10/2023,Bournemouth,Wolves,1,0,H,1,2,A,3,12,15
+2324,28/10/2023,Bournemouth,Burnley,1,1,D,2,1,H,10,5,15
+2324,11/11/2023,Bournemouth,Newcastle,0,0,D,2,0,H,6,5,11
+2324,03/12/2023,Bournemouth,Aston Villa,1,1,D,2,2,D,7,7,14
+2324,26/12/2023,Bournemouth,Fulham,1,0,H,3,0,H,6,5,11
+2324,21/01/2024,Bournemouth,Liverpool,0,0,D,0,4,A,8,5,13
+2324,04/02/2024,Bournemouth,Nott'm Forest,1,1,D,1,1,D,11,6,17
+2324,24/02/2024,Bournemouth,Man City,0,1,A,0,1,A,3,8,11
+2324,09/03/2024,Bournemouth,Sheffield United,0,1,A,2,2,D,10,3,13
+2324,13/03/2024,Bournemouth,Luton,0,3,A,4,3,H,11,3,14
+2324,30/03/2024,Bournemouth,Everton,0,0,D,2,1,H,9,8,17
+2324,02/04/2024,Bournemouth,Crystal Palace,0,0,D,1,0,H,9,2,11
+2324,13/04/2024,Bournemouth,Man United,2,1,H,2,2,D,7,2,9
+2324,28/04/2024,Bournemouth,Brighton,1,0,H,3,0,H,8,2,10
+2324,11/05/2024,Bournemouth,Brentford,0,0,D,1,2,A,3,8,11
+2425,25/08/2024,Bournemouth,Newcastle,1,0,H,1,1,D,8,9,17
+2425,14/09/2024,Bournemouth,Chelsea,0,0,D,0,1,A,6,3,9
+2425,30/09/2024,Bournemouth,Southampton,3,0,H,3,1,H,7,4,11
+2425,19/10/2024,Bournemouth,Arsenal,0,0,D,2,0,H,7,4,11
+2425,02/11/2024,Bournemouth,Man City,1,0,H,2,1,H,3,10,13

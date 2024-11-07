@@ -1,0 +1,77 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2021,12/09/2020,Karagumruk,Yeni Malatyaspor,1,0,H,3,0,H,8,6,14
+2021,25/09/2020,Karagumruk,Buyuksehyr,0,0,D,2,0,H,2,2,4
+2021,18/10/2020,Karagumruk,Kasimpasa,1,0,H,1,1,D,4,4,8
+2021,30/10/2020,Karagumruk,Erzurum BB,3,0,H,5,1,H,7,5,12
+2021,21/11/2020,Karagumruk,Sivasspor,0,1,A,1,1,D,5,5,10
+2021,06/12/2020,Karagumruk,Rizespor,2,1,H,2,1,H,6,5,11
+2021,18/12/2020,Karagumruk,Galatasaray,0,0,D,2,1,H,5,8,13
+2021,03/01/2021,Karagumruk,Trabzonspor,0,0,D,1,2,A,5,8,13
+2021,10/01/2021,Karagumruk,Konyaspor,0,0,D,2,1,H,4,5,9
+2021,21/01/2021,Karagumruk,Besiktas,0,1,A,1,4,A,4,7,11
+2021,03/02/2021,Karagumruk,Gaziantep,0,0,D,2,0,H,6,7,13
+2021,13/02/2021,Karagumruk,Fenerbahce,0,1,A,1,2,A,8,4,12
+2021,27/02/2021,Karagumruk,Alanyaspor,0,0,D,2,0,H,4,7,11
+2021,07/03/2021,Karagumruk,Ankaragucu,0,0,D,0,1,A,4,2,6
+2021,19/03/2021,Karagumruk,Kayserispor,1,0,H,3,0,H,7,7,14
+2021,06/04/2021,Karagumruk,Hatayspor,0,0,D,1,0,H,10,3,13
+2021,20/04/2021,Karagumruk,Goztep,1,0,H,1,1,D,4,7,11
+2021,28/04/2021,Karagumruk,Antalyaspor,2,1,H,2,2,D,0,4,4
+2021,08/05/2021,Karagumruk,Genclerbirligi,2,0,H,5,1,H,8,6,14
+2021,15/05/2021,Karagumruk,Denizlispor,2,1,H,5,1,H,6,0,6
+2122,14/08/2021,Karagumruk,Gaziantep,2,1,H,3,2,H,4,1,5
+2122,11/09/2021,Karagumruk,Ad. Demirspor,2,0,H,4,0,H,6,4,10
+2122,21/09/2021,Karagumruk,Antalyaspor,0,0,D,0,0,D,4,3,7
+2122,01/10/2021,Karagumruk,Buyuksehyr,3,0,H,3,1,H,1,10,11
+2122,24/10/2021,Karagumruk,Hatayspor,1,1,D,1,1,D,8,3,11
+2122,07/11/2021,Karagumruk,Galatasaray,0,0,D,1,1,D,0,11,11
+2122,28/11/2021,Karagumruk,Trabzonspor,0,1,A,0,2,A,4,0,4
+2122,11/12/2021,Karagumruk,Konyaspor,1,1,D,1,4,A,3,3,6
+2122,22/12/2021,Karagumruk,Fenerbahce,1,1,D,1,1,D,0,5,5
+2122,15/01/2022,Karagumruk,Rizespor,1,0,H,2,0,H,4,3,7
+2122,18/01/2022,Karagumruk,Besiktas,0,1,A,0,1,A,3,4,7
+2122,05/02/2022,Karagumruk,Yeni Malatyaspor,0,0,D,1,0,H,5,5,10
+2122,20/02/2022,Karagumruk,Sivasspor,0,0,D,1,0,H,5,3,8
+2122,06/03/2022,Karagumruk,Altay,0,0,D,0,0,D,6,1,7
+2122,18/03/2022,Karagumruk,Kayserispor,2,0,H,3,0,H,3,6,9
+2122,09/04/2022,Karagumruk,Kasimpasa,2,0,H,3,2,H,3,4,7
+2122,23/04/2022,Karagumruk,Giresunspor,0,0,D,2,1,H,2,5,7
+2122,07/05/2022,Karagumruk,Goztep,1,0,H,3,1,H,7,4,11
+2122,22/05/2022,Karagumruk,Alanyaspor,0,1,A,0,1,A,8,7,15
+2223,07/08/2022,Karagumruk,Alanyaspor,0.0,2.0,A,2,4,A,10.0,3.0,13.0
+2223,27/08/2022,Karagumruk,Ankaragucu,2.0,0.0,H,4,1,H,0.0,7.0,7.0
+2223,10/09/2022,Karagumruk,Giresunspor,0.0,0.0,D,1,1,D,5.0,1.0,6.0
+2223,03/10/2022,Karagumruk,Istanbulspor,1.0,0.0,H,1,2,A,5.0,4.0,9.0
+2223,15/10/2022,Karagumruk,Hatayspor,2.0,0.0,H,3,0,H,5.0,6.0,11.0
+2223,28/10/2022,Karagumruk,Galatasaray,0.0,0.0,D,0,2,A,3.0,11.0,14.0
+2223,13/11/2022,Karagumruk,Gaziantep,1.0,2.0,A,3,3,D,7.0,5.0,12.0
+2223,28/12/2022,Karagumruk,Trabzonspor,2.0,1.0,H,4,1,H,4.0,4.0,8.0
+2223,08/01/2023,Karagumruk,Konyaspor,2.0,0.0,H,3,3,D,1.0,6.0,7.0
+2223,31/01/2023,Karagumruk,Besiktas,0.0,1.0,A,1,1,D,6.0,8.0,14.0
+2223,04/03/2023,Karagumruk,Sivasspor,1.0,1.0,D,4,3,H,4.0,5.0,9.0
+2223,19/03/2023,Karagumruk,Buyuksehyr,1.0,1.0,D,2,2,D,2.0,7.0,9.0
+2223,10/04/2023,Karagumruk,Fenerbahce,1.0,0.0,H,1,2,A,1.0,4.0,5.0
+2223,18/04/2023,Karagumruk,Umraniyespor,2.0,1.0,H,4,2,H,5.0,8.0,13.0
+2223,29/04/2023,Karagumruk,Antalyaspor,0.0,1.0,A,0,1,A,5.0,5.0,10.0
+2223,17/05/2023,Karagumruk,Ad. Demirspor,1.0,0.0,H,2,3,A,1.0,8.0,9.0
+2223,30/05/2023,Karagumruk,Kayserispor,2.0,0.0,H,2,0,H,4.0,4.0,8.0
+2223,06/06/2023,Karagumruk,Kasimpasa,1.0,0.0,H,3,0,H,0.0,11.0,11.0
+2324,14/08/2023,Karagumruk,Besiktas,0.0,0.0,D,0,1,A,4.0,4.0,8.0
+2324,27/08/2023,Karagumruk,Ankaragucu,1.0,0.0,H,1,1,D,3.0,5.0,8.0
+2324,18/09/2023,Karagumruk,Hatayspor,0.0,0.0,D,0,0,D,3.0,3.0,6.0
+2324,01/10/2023,Karagumruk,Kasimpasa,1.0,3.0,A,2,3,A,8.0,0.0,8.0
+2324,23/10/2023,Karagumruk,Ad. Demirspor,0.0,0.0,D,2,0,H,5.0,4.0,9.0
+2324,29/10/2023,Karagumruk,Trabzonspor,0.0,0.0,D,0,0,D,6.0,3.0,9.0
+2324,11/11/2023,Karagumruk,Sivasspor,1.0,0.0,H,3,0,H,5.0,4.0,9.0
+2324,01/12/2023,Karagumruk,Istanbulspor,1.0,0.0,H,3,0,H,3.0,5.0,8.0
+2324,23/12/2023,Karagumruk,Gaziantep,0.0,1.0,A,0,3,A,2.0,3.0,5.0
+2324,10/01/2024,Karagumruk,Kayserispor,3.0,1.0,H,4,1,H,5.0,3.0,8.0
+2324,20/01/2024,Karagumruk,Buyuksehyr,0.0,1.0,A,1,1,D,4.0,3.0,7.0
+2324,28/01/2024,Karagumruk,Rizespor,1.0,0.0,H,4,0,H,5.0,7.0,12.0
+2324,10/02/2024,Karagumruk,Pendikspor,1.0,0.0,H,2,0,H,6.0,9.0,15.0
+2324,25/02/2024,Karagumruk,Alanyaspor,1.0,0.0,H,1,1,D,1.0,11.0,12.0
+2324,15/03/2024,Karagumruk,Konyaspor,0.0,1.0,A,1,1,D,9.0,4.0,13.0
+2324,14/04/2024,Karagumruk,Fenerbahce,1.0,0.0,H,1,2,A,3.0,6.0,9.0
+2324,29/04/2024,Karagumruk,Antalyaspor,1.0,0.0,H,4,1,H,1.0,4.0,5.0
+2324,12/05/2024,Karagumruk,Galatasaray,1.0,1.0,D,2,3,A,5.0,10.0,15.0
+2324,25/05/2024,Karagumruk,Samsunspor,1.0,0.0,H,3,1,H,2.0,7.0,9.0

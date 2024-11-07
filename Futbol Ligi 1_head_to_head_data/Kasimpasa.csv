@@ -1,0 +1,83 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2021,20/09/2020,Kasimpasa,Rizespor,1,0,H,2,0,H,5,8,13
+2021,04/10/2020,Kasimpasa,Galatasaray,1,0,H,1,0,H,6,7,13
+2021,23/10/2020,Kasimpasa,Goztep,0,0,D,0,0,D,7,5,12
+2021,07/11/2020,Kasimpasa,Antalyaspor,1,0,H,2,2,D,3,7,10
+2021,29/11/2020,Kasimpasa,Genclerbirligi,2,0,H,2,0,H,5,3,8
+2021,11/12/2020,Kasimpasa,Denizlispor,2,1,H,3,2,H,3,7,10
+2021,23/12/2020,Kasimpasa,Gaziantep,0,2,A,0,4,A,5,6,11
+2021,04/01/2021,Kasimpasa,Fenerbahce,0,2,A,0,3,A,7,1,8
+2021,18/01/2021,Kasimpasa,Erzurum BB,0,1,A,1,2,A,3,2,5
+2021,25/01/2021,Kasimpasa,Sivasspor,2,0,H,2,0,H,4,10,14
+2021,30/01/2021,Kasimpasa,Kayserispor,0,0,D,0,1,A,3,5,8
+2021,06/02/2021,Kasimpasa,Hatayspor,0,1,A,1,4,A,9,3,12
+2021,20/02/2021,Kasimpasa,Karagumruk,1,1,D,3,2,H,13,3,16
+2021,04/03/2021,Kasimpasa,Trabzonspor,1,1,D,1,2,A,6,5,11
+2021,15/03/2021,Kasimpasa,Konyaspor,0,0,D,1,1,D,8,0,8
+2021,04/04/2021,Kasimpasa,Besiktas,1,0,H,1,0,H,2,5,7
+2021,12/04/2021,Kasimpasa,Yeni Malatyaspor,0,0,D,0,0,D,4,4,8
+2021,22/04/2021,Kasimpasa,Buyuksehyr,0,1,A,0,1,A,4,3,7
+2021,03/05/2021,Kasimpasa,Alanyaspor,2,0,H,3,0,H,1,5,6
+2021,11/05/2021,Kasimpasa,Ankaragucu,2,0,H,3,1,H,2,3,5
+2122,21/08/2021,Kasimpasa,Giresunspor,1,0,H,2,0,H,3,2,5
+2122,29/08/2021,Kasimpasa,Galatasaray,1,2,A,2,2,D,4,2,6
+2122,18/09/2021,Kasimpasa,Trabzonspor,0,0,D,0,1,A,8,3,11
+2122,27/09/2021,Kasimpasa,Konyaspor,1,2,A,2,2,D,8,2,10
+2122,17/10/2021,Kasimpasa,Goztep,0,0,D,1,2,A,5,4,9
+2122,30/10/2021,Kasimpasa,Yeni Malatyaspor,0,0,D,2,0,H,5,5,10
+2122,21/11/2021,Kasimpasa,Karagumruk,1,3,A,1,3,A,4,1,5
+2122,03/12/2021,Kasimpasa,Besiktas,0,1,A,1,1,D,8,6,14
+2122,18/12/2021,Kasimpasa,Sivasspor,1,0,H,1,3,A,10,5,15
+2122,25/12/2021,Kasimpasa,Altay,1,0,H,2,0,H,7,4,11
+2122,08/01/2022,Kasimpasa,Hatayspor,2,0,H,3,1,H,6,4,10
+2122,23/01/2022,Kasimpasa,Kayserispor,2,1,H,3,1,H,4,3,7
+2122,13/02/2022,Kasimpasa,Alanyaspor,0,1,A,2,2,D,13,3,16
+2122,28/02/2022,Kasimpasa,Fenerbahce,0,1,A,1,2,A,8,4,12
+2122,12/03/2022,Kasimpasa,Rizespor,1,0,H,3,1,H,3,4,7
+2122,03/04/2022,Kasimpasa,Gaziantep,1,1,D,2,1,H,7,3,10
+2122,17/04/2022,Kasimpasa,Ad. Demirspor,2,0,H,4,0,H,3,7,10
+2122,30/04/2022,Kasimpasa,Buyuksehyr,1,2,A,2,3,A,5,3,8
+2122,15/05/2022,Kasimpasa,Antalyaspor,1,1,D,2,4,A,3,6,9
+2223,15/08/2022,Kasimpasa,Fenerbahce,0.0,3.0,A,0,6,A,2.0,8.0,10.0
+2223,28/08/2022,Kasimpasa,Hatayspor,1.0,0.0,H,1,0,H,5.0,4.0,9.0
+2223,11/09/2022,Kasimpasa,Galatasaray,1.0,1.0,D,2,3,A,6.0,8.0,14.0
+2223,01/10/2022,Kasimpasa,Gaziantep,0.0,0.0,D,1,0,H,4.0,6.0,10.0
+2223,15/10/2022,Kasimpasa,Ad. Demirspor,0.0,2.0,A,1,4,A,9.0,4.0,13.0
+2223,23/10/2022,Kasimpasa,Kayserispor,0.0,1.0,A,0,1,A,10.0,6.0,16.0
+2223,04/11/2022,Kasimpasa,Ankaragucu,0.0,0.0,D,1,1,D,4.0,0.0,4.0
+2223,24/12/2022,Kasimpasa,Sivasspor,1.0,1.0,D,1,2,A,4.0,6.0,10.0
+2223,04/01/2023,Kasimpasa,Alanyaspor,2.0,0.0,H,4,1,H,1.0,7.0,8.0
+2223,15/01/2023,Kasimpasa,Karagumruk,1.0,0.0,H,2,2,D,5.0,8.0,13.0
+2223,21/01/2023,Kasimpasa,Buyuksehyr,1.0,0.0,H,1,3,A,4.0,8.0,12.0
+2223,01/02/2023,Kasimpasa,Giresunspor,3.0,1.0,H,5,1,H,4.0,6.0,10.0
+2223,06/03/2023,Kasimpasa,Antalyaspor,2.0,1.0,H,3,1,H,3.0,7.0,10.0
+2223,18/03/2023,Kasimpasa,Umraniyespor,1.0,1.0,D,1,1,D,9.0,5.0,14.0
+2223,08/04/2023,Kasimpasa,Trabzonspor,1.0,0.0,H,2,0,H,5.0,5.0,10.0
+2223,23/04/2023,Kasimpasa,Konyaspor,1.0,2.0,A,1,2,A,9.0,4.0,13.0
+2223,20/05/2023,Kasimpasa,Istanbulspor,0.0,0.0,D,1,0,H,8.0,4.0,12.0
+2223,03/06/2023,Kasimpasa,Besiktas,0.0,2.0,A,2,5,A,5.0,5.0,10.0
+2324,12/08/2023,Kasimpasa,Ankaragucu,1.0,0.0,H,3,2,H,3.0,5.0,8.0
+2324,26/08/2023,Kasimpasa,Pendikspor,0.0,1.0,A,1,1,D,9.0,2.0,11.0
+2324,01/09/2023,Kasimpasa,Trabzonspor,0.0,3.0,A,1,5,A,9.0,3.0,12.0
+2324,24/09/2023,Kasimpasa,Ad. Demirspor,1.0,0.0,H,2,1,H,6.0,11.0,17.0
+2324,08/10/2023,Kasimpasa,Fenerbahce,0.0,2.0,A,0,2,A,1.0,8.0,9.0
+2324,27/10/2023,Kasimpasa,Istanbulspor,1.0,0.0,H,3,1,H,8.0,5.0,13.0
+2324,11/11/2023,Kasimpasa,Kayserispor,1.0,3.0,A,3,4,A,6.0,4.0,10.0
+2324,03/12/2023,Kasimpasa,Gaziantep,3.0,0.0,H,4,2,H,5.0,6.0,11.0
+2324,25/12/2023,Kasimpasa,Rizespor,1.0,1.0,D,2,2,D,3.0,4.0,7.0
+2324,09/01/2024,Kasimpasa,Buyuksehyr,0.0,1.0,A,0,3,A,6.0,3.0,9.0
+2324,20/01/2024,Kasimpasa,Hatayspor,0.0,0.0,D,3,0,H,5.0,7.0,12.0
+2324,04/02/2024,Kasimpasa,Alanyaspor,1.0,1.0,D,2,1,H,7.0,9.0,16.0
+2324,16/02/2024,Kasimpasa,Karagumruk,1.0,1.0,D,1,1,D,3.0,11.0,14.0
+2324,01/03/2024,Kasimpasa,Sivasspor,0.0,0.0,D,0,0,D,5.0,1.0,6.0
+2324,17/03/2024,Kasimpasa,Galatasaray,1.0,1.0,D,3,4,A,2.0,4.0,6.0
+2324,13/04/2024,Kasimpasa,Konyaspor,0.0,1.0,A,0,2,A,5.0,5.0,10.0
+2324,27/04/2024,Kasimpasa,Samsunspor,1.0,0.0,H,1,0,H,4.0,8.0,12.0
+2324,12/05/2024,Kasimpasa,Antalyaspor,2.0,0.0,H,3,1,H,4.0,5.0,9.0
+2324,26/05/2024,Kasimpasa,Besiktas,1.0,0.0,H,2,1,H,8.0,3.0,11.0
+2425,10/08/2024,Kasimpasa,Konyaspor,0,1,A,2,3,A,2,7,9
+2425,25/08/2024,Kasimpasa,Ad. Demirspor,1,0,H,2,2,D,8,4,12
+2425,15/09/2024,Kasimpasa,Fenerbahce,0,2,A,0,2,A,6,5,11
+2425,22/09/2024,Kasimpasa,Antalyaspor,0,0,D,0,0,D,3,1,4
+2425,05/10/2024,Kasimpasa,Bodrumspor,0,0,D,0,0,D,5,0,5
+2425,26/10/2024,Kasimpasa,Samsunspor,1,0,H,1,4,A,0,5,5

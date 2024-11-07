@@ -1,0 +1,84 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2021,01/10/2020,Ath Bilbao,Cadiz,0,0,D,0,1,A,5,2,7
+2021,18/10/2020,Ath Bilbao,Levante,0,0,D,2,0,H,9,3,12
+2021,31/10/2020,Ath Bilbao,Sevilla,0,1,A,2,1,H,6,1,7
+2021,23/11/2020,Ath Bilbao,Betis,2,0,H,4,0,H,6,3,9
+2021,04/12/2020,Ath Bilbao,Celta,0,0,D,0,2,A,4,5,9
+2021,18/12/2020,Ath Bilbao,Huesca,0,0,D,2,0,H,5,5,10
+2021,31/12/2020,Ath Bilbao,Sociedad,0,1,A,0,1,A,2,4,6
+2021,03/01/2021,Ath Bilbao,Elche,1,0,H,1,0,H,5,4,9
+2021,06/01/2021,Ath Bilbao,Barcelona,1,2,A,2,3,A,3,4,7
+2021,25/01/2021,Ath Bilbao,Getafe,1,1,D,5,1,H,4,4,8
+2021,07/02/2021,Ath Bilbao,Valencia,1,0,H,1,1,D,6,6,12
+2021,21/02/2021,Ath Bilbao,Villarreal,1,1,D,1,1,D,6,0,6
+2021,07/03/2021,Ath Bilbao,Granada,1,0,H,2,1,H,6,9,15
+2021,20/03/2021,Ath Bilbao,Eibar,1,1,D,1,1,D,10,1,11
+2021,10/04/2021,Ath Bilbao,Alaves,0,0,D,0,0,D,6,6,12
+2021,25/04/2021,Ath Bilbao,Ath Madrid,1,0,H,2,1,H,4,11,15
+2021,28/04/2021,Ath Bilbao,Valladolid,1,0,H,2,2,D,5,7,12
+2021,08/05/2021,Ath Bilbao,Osasuna,1,1,D,2,2,D,10,4,14
+2021,16/05/2021,Ath Bilbao,Real Madrid,0,0,D,0,1,A,4,11,15
+2122,21/08/2021,Ath Bilbao,Barcelona,0,0,D,1,1,D,13,2,15
+2122,11/09/2021,Ath Bilbao,Mallorca,0,0,D,2,0,H,7,2,9
+2122,21/09/2021,Ath Bilbao,Vallecano,1,1,D,1,2,A,2,1,3
+2122,01/10/2021,Ath Bilbao,Alaves,1,0,H,1,0,H,13,9,22
+2122,23/10/2021,Ath Bilbao,Villarreal,1,1,D,2,1,H,9,2,11
+2122,05/11/2021,Ath Bilbao,Cadiz,0,1,A,0,1,A,5,1,6
+2122,26/11/2021,Ath Bilbao,Granada,1,2,A,2,2,D,8,3,11
+2122,11/12/2021,Ath Bilbao,Sevilla,0,1,A,0,1,A,9,2,11
+2122,19/12/2021,Ath Bilbao,Betis,1,1,D,3,2,H,5,6,11
+2122,22/12/2021,Ath Bilbao,Real Madrid,1,2,A,1,2,A,7,0,7
+2122,07/02/2022,Ath Bilbao,Espanol,2,1,H,2,1,H,5,3,8
+2122,20/02/2022,Ath Bilbao,Sociedad,0,0,D,4,0,H,6,4,10
+2122,07/03/2022,Ath Bilbao,Levante,0,0,D,3,1,H,4,3,7
+2122,18/03/2022,Ath Bilbao,Getafe,1,1,D,1,1,D,8,2,10
+2122,03/04/2022,Ath Bilbao,Elche,1,0,H,2,1,H,7,4,11
+2122,17/04/2022,Ath Bilbao,Celta,0,2,A,0,2,A,5,4,9
+2122,30/04/2022,Ath Bilbao,Ath Madrid,1,0,H,2,0,H,5,3,8
+2122,07/05/2022,Ath Bilbao,Valencia,0,0,D,0,0,D,4,2,6
+2122,15/05/2022,Ath Bilbao,Osasuna,1,0,H,2,0,H,10,6,16
+2223,15/08/2022,Ath Bilbao,Mallorca,0,0,D,0,0,D,7,2,9
+2223,21/08/2022,Ath Bilbao,Valencia,1,0,H,1,0,H,6,3,9
+2223,04/09/2022,Ath Bilbao,Espanol,0,0,D,0,1,A,4,2,6
+2223,17/09/2022,Ath Bilbao,Vallecano,3,1,H,3,2,H,2,7,9
+2223,30/09/2022,Ath Bilbao,Almeria,2,0,H,4,0,H,11,2,13
+2223,15/10/2022,Ath Bilbao,Ath Madrid,0,0,D,0,1,A,6,1,7
+2223,30/10/2022,Ath Bilbao,Villarreal,0,0,D,1,0,H,6,2,8
+2223,08/11/2022,Ath Bilbao,Valladolid,1,0,H,3,0,H,10,2,12
+2223,09/01/2023,Ath Bilbao,Osasuna,0,0,D,0,0,D,14,1,15
+2223,22/01/2023,Ath Bilbao,Real Madrid,0,1,A,0,2,A,12,2,14
+2223,03/02/2023,Ath Bilbao,Cadiz,3,1,H,4,1,H,0,3,3
+2223,26/02/2023,Ath Bilbao,Girona,1,3,A,2,3,A,11,3,14
+2223,12/03/2023,Ath Bilbao,Barcelona,0,1,A,0,1,A,5,3,8
+2223,01/04/2023,Ath Bilbao,Getafe,0,0,D,0,0,D,13,3,16
+2223,15/04/2023,Ath Bilbao,Sociedad,1,0,H,2,0,H,5,2,7
+2223,27/04/2023,Ath Bilbao,Sevilla,0,0,D,0,1,A,8,2,10
+2223,04/05/2023,Ath Bilbao,Betis,0,1,A,0,1,A,13,2,15
+2223,20/05/2023,Ath Bilbao,Celta,1,0,H,2,1,H,8,5,13
+2223,28/05/2023,Ath Bilbao,Elche,0,0,D,0,1,A,19,3,22
+2324,12/08/2023,Ath Bilbao,Real Madrid,0,2,A,0,2,A,7,5,12
+2324,27/08/2023,Ath Bilbao,Betis,3,2,H,4,2,H,5,3,8
+2324,16/09/2023,Ath Bilbao,Cadiz,0,0,D,3,0,H,5,4,9
+2324,27/09/2023,Ath Bilbao,Getafe,1,0,H,2,2,D,5,4,9
+2324,06/10/2023,Ath Bilbao,Almeria,1,0,H,3,0,H,6,2,8
+2324,29/10/2023,Ath Bilbao,Valencia,1,0,H,2,2,D,10,4,14
+2324,10/11/2023,Ath Bilbao,Celta,2,2,D,4,3,H,7,2,9
+2324,02/12/2023,Ath Bilbao,Vallecano,1,0,H,4,0,H,7,2,9
+2324,16/12/2023,Ath Bilbao,Ath Madrid,0,0,D,2,0,H,3,7,10
+2324,20/12/2023,Ath Bilbao,Las Palmas,0,0,D,1,0,H,5,2,7
+2324,13/01/2024,Ath Bilbao,Sociedad,2,0,H,2,1,H,5,5,10
+2324,02/02/2024,Ath Bilbao,Mallorca,2,0,H,4,0,H,6,2,8
+2324,19/02/2024,Ath Bilbao,Girona,1,0,H,3,2,H,3,4,7
+2324,03/03/2024,Ath Bilbao,Barcelona,0,0,D,0,0,D,4,4,8
+2324,16/03/2024,Ath Bilbao,Alaves,2,0,H,2,0,H,5,4,9
+2324,14/04/2024,Ath Bilbao,Villarreal,0,0,D,1,1,D,3,1,4
+2324,19/04/2024,Ath Bilbao,Granada,1,1,D,1,1,D,11,4,15
+2324,11/05/2024,Ath Bilbao,Osasuna,0,1,A,2,2,D,8,6,14
+2324,19/05/2024,Ath Bilbao,Sevilla,2,0,H,2,0,H,8,3,11
+2425,15/08/2024,Ath Bilbao,Getafe,1,0,H,1,1,D,5,6,11
+2425,28/08/2024,Ath Bilbao,Valencia,1,0,H,1,0,H,5,3,8
+2425,31/08/2024,Ath Bilbao,Ath Madrid,0,0,D,0,1,A,2,2,4
+2425,22/09/2024,Ath Bilbao,Celta,2,1,H,3,1,H,3,6,9
+2425,29/09/2024,Ath Bilbao,Sevilla,1,0,H,1,1,D,4,7,11
+2425,19/10/2024,Ath Bilbao,Espanol,3,0,H,4,1,H,5,5,10
+2425,03/11/2024,Ath Bilbao,Betis,0,0,D,1,1,D,6,2,8

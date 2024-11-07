@@ -1,0 +1,74 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2021,25/09/2020,Sp Braga,Santa Clara,0,1,A,0,1,A,8,0,8
+2021,17/10/2020,Sp Braga,Nacional,2,0,H,2,1,H,4,2,6
+2021,02/11/2020,Sp Braga,Famalicao,0,0,D,1,0,H,11,2,13
+2021,29/11/2020,Sp Braga,Farense,0,0,D,1,0,H,7,3,10
+2021,22/12/2020,Sp Braga,Rio Ave,1,0,H,3,0,H,3,4,7
+2021,07/01/2021,Sp Braga,Maritimo,1,0,H,2,1,H,4,1,5
+2021,26/01/2021,Sp Braga,Gil Vicente,0,0,D,1,0,H,7,4,11
+2021,04/02/2021,Sp Braga,Portimonense,0,1,A,2,1,H,4,1,5
+2021,07/02/2021,Sp Braga,Porto,0,1,A,2,2,D,6,5,11
+2021,21/02/2021,Sp Braga,Tondela,3,0,H,4,2,H,8,2,10
+2021,09/03/2021,Sp Braga,Guimaraes,2,0,H,3,0,H,3,12,15
+2021,21/03/2021,Sp Braga,Benfica,0,1,A,0,2,A,2,1,3
+2021,11/04/2021,Sp Braga,Belenenses,1,0,H,1,1,D,9,7,16
+2021,21/04/2021,Sp Braga,Boavista,1,1,D,2,1,H,15,2,17
+2021,25/04/2021,Sp Braga,Sp Lisbon,0,0,D,0,1,A,6,2,8
+2021,05/05/2021,Sp Braga,Pacos Ferreira,0,1,A,1,1,D,7,5,12
+2021,14/05/2021,Sp Braga,Moreirense,1,0,H,2,1,H,10,1,11
+2122,14/08/2021,Sp Braga,Sp Lisbon,0,1,A,1,2,A,6,5,11
+2122,29/08/2021,Sp Braga,Guimaraes,0,0,D,0,0,D,6,6,12
+2122,20/09/2021,Sp Braga,Tondela,0,0,D,3,1,H,5,0,5
+2122,03/10/2021,Sp Braga,Boavista,1,1,D,2,2,D,3,1,4
+2122,01/11/2021,Sp Braga,Portimonense,1,0,H,3,0,H,3,5,8
+2122,30/11/2021,Sp Braga,Vizela,2,0,H,4,1,H,10,1,11
+2122,05/12/2021,Sp Braga,Estoril,2,0,H,2,0,H,2,7,9
+2122,19/12/2021,Sp Braga,Belenenses,1,0,H,1,0,H,6,3,9
+2122,09/01/2022,Sp Braga,Famalicao,1,1,D,2,2,D,5,2,7
+2122,15/01/2022,Sp Braga,Maritimo,0,0,D,0,1,A,7,4,11
+2122,30/01/2022,Sp Braga,Moreirense,0,0,D,2,0,H,9,2,11
+2122,12/02/2022,Sp Braga,Pacos Ferreira,0,1,A,2,1,H,3,8,11
+2122,28/02/2022,Sp Braga,Santa Clara,0,0,D,0,0,D,2,8,10
+2122,13/03/2022,Sp Braga,Gil Vicente,0,0,D,0,1,A,7,2,9
+2122,01/04/2022,Sp Braga,Benfica,1,0,H,3,2,H,2,9,11
+2122,25/04/2022,Sp Braga,Porto,0,0,D,1,0,H,2,10,12
+2122,08/05/2022,Sp Braga,Arouca,0,0,D,1,0,H,4,8,12
+2223,07/08/2022,Sp Braga,Sp Lisbon,2,2,D,3,3,D,3,3,6
+2223,21/08/2022,Sp Braga,Maritimo,2,0,H,5,0,H,5,5,10
+2223,03/09/2022,Sp Braga,Guimaraes,0,0,D,1,0,H,5,0,5
+2223,18/09/2022,Sp Braga,Vizela,0,0,D,2,0,H,8,4,12
+2223,09/10/2022,Sp Braga,Chaves,0,1,A,0,1,A,13,1,14
+2223,06/11/2022,Sp Braga,Casa Pia,0,1,A,0,1,A,7,1,8
+2223,30/12/2022,Sp Braga,Benfica,2,0,H,3,0,H,4,8,12
+2223,14/01/2023,Sp Braga,Boavista,0,0,D,1,0,H,1,7,8
+2223,05/02/2023,Sp Braga,Famalicao,1,0,H,4,1,H,6,2,8
+2223,19/02/2023,Sp Braga,Arouca,1,0,H,2,0,H,4,3,7
+2223,05/03/2023,Sp Braga,Rio Ave,1,0,H,2,0,H,9,4,13
+2223,19/03/2023,Sp Braga,Porto,0,0,D,0,0,D,5,5,10
+2223,08/04/2023,Sp Braga,Estoril,1,0,H,4,1,H,7,2,9
+2223,16/04/2023,Sp Braga,Gil Vicente,1,0,H,1,0,H,10,5,15
+2223,29/04/2023,Sp Braga,Portimonense,3,1,H,4,1,H,4,0,4
+2223,14/05/2023,Sp Braga,Santa Clara,3,1,H,5,3,H,11,6,17
+2223,27/05/2023,Sp Braga,Pacos Ferreira,2,0,H,3,0,H,6,9,15
+2324,11/08/2023,Sp Braga,Famalicao,1,0,H,1,2,A,3,4,7
+2324,03/09/2023,Sp Braga,Sp Lisbon,0,1,A,1,1,D,4,2,6
+2324,24/09/2023,Sp Braga,Boavista,2,1,H,4,1,H,6,2,8
+2324,07/10/2023,Sp Braga,Rio Ave,0,1,A,2,1,H,16,1,17
+2324,04/11/2023,Sp Braga,Portimonense,0,1,A,6,1,H,5,5,10
+2324,03/12/2023,Sp Braga,Estoril,1,1,D,3,1,H,5,2,7
+2324,17/12/2023,Sp Braga,Benfica,0,1,A,0,1,A,5,2,7
+2324,06/01/2024,Sp Braga,Guimaraes,0,0,D,1,1,D,5,6,11
+2324,31/01/2024,Sp Braga,Chaves,0,0,D,1,1,D,9,1,10
+2324,04/02/2024,Sp Braga,Moreirense,1,0,H,1,0,H,6,1,7
+2324,18/02/2024,Sp Braga,Farense,0,0,D,2,1,H,6,1,7
+2324,02/03/2024,Sp Braga,Estrela,0,0,D,3,0,H,6,4,10
+2324,16/03/2024,Sp Braga,Gil Vicente,1,0,H,2,1,H,8,2,10
+2324,06/04/2024,Sp Braga,Arouca,0,2,A,0,3,A,10,9,19
+2324,20/04/2024,Sp Braga,Vizela,0,0,D,2,1,H,4,4,8
+2324,05/05/2024,Sp Braga,Casa Pia,1,1,D,4,3,H,7,7,14
+2324,18/05/2024,Sp Braga,Porto,0,0,D,0,1,A,4,8,12
+2425,11/08/2024,Sp Braga,Estrela,0,0,D,1,1,D,13,4,17
+2425,25/08/2024,Sp Braga,Moreirense,1,0,H,3,1,H,6,1,7
+2425,15/09/2024,Sp Braga,Guimaraes,0,0,D,0,2,A,6,4,10
+2425,29/09/2024,Sp Braga,Rio Ave,2,0,H,4,0,H,4,5,9
+2425,27/10/2024,Sp Braga,Farense,1,0,H,2,0,H,10,3,13

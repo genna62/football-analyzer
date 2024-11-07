@@ -1,0 +1,35 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2223,07/08/2022,Chaves,Guimaraes,0,1,A,0,1,A,2,5,7
+2223,20/08/2022,Chaves,Vizela,1,1,D,1,1,D,5,4,9
+2223,05/09/2022,Chaves,Rio Ave,1,0,H,1,1,D,8,11,19
+2223,01/10/2022,Chaves,Estoril,1,0,H,1,1,D,4,8,12
+2223,23/10/2022,Chaves,Gil Vicente,0,1,A,3,1,H,5,1,6
+2223,07/11/2022,Chaves,Santa Clara,0,0,D,0,0,D,4,6,10
+2223,30/12/2022,Chaves,Famalicao,0,1,A,0,2,A,5,3,8
+2223,15/01/2023,Chaves,Arouca,1,0,H,1,1,D,5,10,15
+2223,05/02/2023,Chaves,Maritimo,2,1,H,2,1,H,3,6,9
+2223,20/02/2023,Chaves,Sp Lisbon,1,1,D,2,3,A,4,4,8
+2223,04/03/2023,Chaves,Porto,0,2,A,1,3,A,4,8,12
+2223,11/03/2023,Chaves,Portimonense,1,0,H,2,0,H,3,7,10
+2223,02/04/2023,Chaves,Sp Braga,1,1,D,1,2,A,7,5,12
+2223,15/04/2023,Chaves,Benfica,0,0,D,1,0,H,3,19,22
+2223,29/04/2023,Chaves,Casa Pia,1,0,H,1,0,H,10,3,13
+2223,13/05/2023,Chaves,Pacos Ferreira,0,0,D,2,0,H,5,8,13
+2223,27/05/2023,Chaves,Boavista,0,2,A,1,4,A,1,4,5
+2324,19/08/2023,Chaves,Sp Braga,1,1,D,2,4,A,5,6,11
+2324,03/09/2023,Chaves,Moreirense,0,1,A,1,2,A,3,4,7
+2324,24/09/2023,Chaves,Estrela,0,1,A,2,2,D,9,5,14
+2324,07/10/2023,Chaves,Gil Vicente,1,2,A,4,2,H,6,1,7
+2324,04/11/2023,Chaves,Benfica,0,0,D,0,2,A,3,8,11
+2324,01/12/2023,Chaves,Vizela,1,1,D,2,1,H,2,1,3
+2324,17/12/2023,Chaves,Casa Pia,1,2,A,1,3,A,4,2,6
+2324,13/01/2024,Chaves,Sp Lisbon,0,1,A,0,3,A,2,5,7
+2324,21/01/2024,Chaves,Rio Ave,0,0,D,0,0,D,11,0,11
+2324,04/02/2024,Chaves,Farense,0,1,A,1,1,D,3,6,9
+2324,17/02/2024,Chaves,Boavista,1,1,D,2,1,H,4,3,7
+2324,01/03/2024,Chaves,Arouca,1,2,A,1,5,A,4,2,6
+2324,17/03/2024,Chaves,Guimaraes,1,1,D,1,2,A,3,10,13
+2324,07/04/2024,Chaves,Portimonense,1,0,H,2,3,A,4,4,8
+2324,21/04/2024,Chaves,Estoril,1,0,H,2,2,D,7,5,12
+2324,04/05/2024,Chaves,Porto,0,2,A,0,3,A,2,8,10
+2324,10/05/2024,Chaves,Famalicao,0,1,A,0,1,A,3,3,6

@@ -1,0 +1,57 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2122,07/08/2021,Arouca,Estoril,0,1,A,0,2,A,3,2,5
+2122,20/08/2021,Arouca,Famalicao,0,1,A,2,1,H,10,9,19
+2122,18/09/2021,Arouca,Guimaraes,0,1,A,2,2,D,6,4,10
+2122,02/10/2021,Arouca,Sp Lisbon,0,1,A,1,2,A,4,5,9
+2122,29/10/2021,Arouca,Tondela,1,0,H,2,0,H,4,6,10
+2122,27/11/2021,Arouca,Boavista,1,0,H,2,1,H,2,1,3
+2122,13/12/2021,Arouca,Vizela,0,4,A,1,4,A,6,4,10
+2122,30/12/2021,Arouca,Sp Braga,0,3,A,0,6,A,1,1,2
+2122,21/01/2022,Arouca,Benfica,0,1,A,0,2,A,2,2,4
+2122,06/02/2022,Arouca,Porto,0,0,D,0,2,A,3,3,6
+2122,14/02/2022,Arouca,Maritimo,0,2,A,0,3,A,9,2,11
+2122,26/02/2022,Arouca,Moreirense,0,1,A,1,1,D,7,2,9
+2122,12/03/2022,Arouca,Pacos Ferreira,0,1,A,0,1,A,6,9,15
+2122,02/04/2022,Arouca,Gil Vicente,0,0,D,2,1,H,2,12,14
+2122,15/04/2022,Arouca,Santa Clara,0,0,D,1,1,D,7,7,14
+2122,30/04/2022,Arouca,Portimonense,0,0,D,1,0,H,5,7,12
+2122,14/05/2022,Arouca,Belenenses,0,0,D,0,0,D,8,4,12
+2223,15/08/2022,Arouca,Gil Vicente,1,0,H,1,0,H,4,4,8
+2223,28/08/2022,Arouca,Sp Braga,0,4,A,0,6,A,5,4,9
+2223,11/09/2022,Arouca,Boavista,1,1,D,1,2,A,2,5,7
+2223,18/09/2022,Arouca,Guimaraes,1,0,H,2,2,D,3,6,9
+2223,10/10/2022,Arouca,Famalicao,1,1,D,4,1,H,3,5,8
+2223,29/10/2022,Arouca,Sp Lisbon,0,0,D,1,0,H,4,11,15
+2223,12/11/2022,Arouca,Rio Ave,0,0,D,0,1,A,10,4,14
+2223,07/01/2023,Arouca,Estoril,1,0,H,2,0,H,2,5,7
+2223,20/01/2023,Arouca,Portimonense,2,0,H,4,0,H,3,7,10
+2223,31/01/2023,Arouca,Benfica,0,1,A,0,3,A,3,3,6
+2223,11/02/2023,Arouca,Santa Clara,0,0,D,1,0,H,3,3,6
+2223,25/02/2023,Arouca,Casa Pia,0,0,D,2,0,H,1,11,12
+2223,18/03/2023,Arouca,Pacos Ferreira,0,0,D,1,1,D,6,7,13
+2223,08/04/2023,Arouca,Maritimo,1,0,H,1,0,H,7,11,18
+2223,23/04/2023,Arouca,Vizela,1,0,H,1,0,H,0,14,14
+2223,08/05/2023,Arouca,Porto,0,1,A,0,1,A,1,8,9
+2223,20/05/2023,Arouca,Chaves,0,0,D,1,0,H,4,6,10
+2324,13/08/2023,Arouca,Estoril,1,1,D,4,3,H,2,6,8
+2324,26/08/2023,Arouca,Portimonense,0,1,A,1,1,D,16,2,18
+2324,17/09/2023,Arouca,Casa Pia,0,0,D,0,1,A,2,7,9
+2324,01/10/2023,Arouca,Chaves,0,0,D,0,2,A,5,3,8
+2324,27/10/2023,Arouca,Moreirense,0,1,A,0,1,A,7,5,12
+2324,12/11/2023,Arouca,Sp Braga,0,1,A,0,1,A,3,8,11
+2324,10/12/2023,Arouca,Rio Ave,0,2,A,2,2,D,5,3,8
+2324,16/12/2023,Arouca,Gil Vicente,1,0,H,3,0,H,4,6,10
+2324,06/01/2024,Arouca,Benfica,0,1,A,0,3,A,1,3,4
+2324,28/01/2024,Arouca,Vizela,2,0,H,5,0,H,1,2,3
+2324,12/02/2024,Arouca,Porto,2,1,H,3,2,H,3,7,10
+2324,23/02/2024,Arouca,Famalicao,2,1,H,3,2,H,3,4,7
+2324,10/03/2024,Arouca,Sp Lisbon,0,1,A,0,3,A,2,0,2
+2324,30/03/2024,Arouca,Farense,1,0,H,2,1,H,13,4,17
+2324,14/04/2024,Arouca,Boavista,2,0,H,2,1,H,1,4,5
+2324,05/05/2024,Arouca,Estrela,0,0,D,0,0,D,6,3,9
+2324,18/05/2024,Arouca,Guimaraes,1,0,H,1,3,A,3,7,10
+2425,12/08/2024,Arouca,Guimaraes,0,1,A,0,1,A,6,5,11
+2425,25/08/2024,Arouca,Nacional,1,0,H,1,0,H,9,2,11
+2425,13/09/2024,Arouca,Sp Lisbon,0,1,A,0,3,A,2,8,10
+2425,05/10/2024,Arouca,AVS,1,0,H,1,1,D,5,7,12
+2425,03/11/2024,Arouca,Sp Braga,0,1,A,1,2,A,12,4,16

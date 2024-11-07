@@ -1,0 +1,83 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2021,20/09/2020,Sociedad,Real Madrid,0,0,D,0,0,D,1,11,12
+2021,29/09/2020,Sociedad,Valencia,0,0,D,0,1,A,9,3,12
+2021,03/10/2020,Sociedad,Getafe,1,0,H,3,0,H,5,4,9
+2021,25/10/2020,Sociedad,Huesca,1,0,H,4,1,H,4,5,9
+2021,08/11/2020,Sociedad,Granada,2,0,H,2,0,H,15,0,15
+2021,29/11/2020,Sociedad,Villarreal,1,1,D,1,1,D,4,4,8
+2021,13/12/2020,Sociedad,Eibar,1,0,H,1,1,D,5,4,9
+2021,22/12/2020,Sociedad,Ath Madrid,0,0,D,0,2,A,5,5,10
+2021,03/01/2021,Sociedad,Osasuna,0,1,A,1,1,D,7,2,9
+2021,23/01/2021,Sociedad,Betis,0,0,D,2,2,D,8,3,11
+2021,07/02/2021,Sociedad,Cadiz,2,0,H,4,1,H,5,1,6
+2021,21/02/2021,Sociedad,Alaves,1,0,H,4,0,H,4,3,7
+2021,07/03/2021,Sociedad,Levante,1,0,H,1,0,H,7,5,12
+2021,21/03/2021,Sociedad,Barcelona,0,2,A,1,6,A,1,1,2
+2021,07/04/2021,Sociedad,Ath Bilbao,0,0,D,1,1,D,3,6,9
+2021,18/04/2021,Sociedad,Sevilla,1,2,A,1,2,A,7,3,10
+2021,22/04/2021,Sociedad,Celta,2,1,H,2,1,H,2,4,6
+2021,07/05/2021,Sociedad,Elche,0,0,D,2,0,H,7,0,7
+2021,16/05/2021,Sociedad,Valladolid,4,0,H,4,1,H,2,4,6
+2122,22/08/2021,Sociedad,Vallecano,0,0,D,1,0,H,5,4,9
+2122,28/08/2021,Sociedad,Levante,1,0,H,1,0,H,2,2,4
+2122,19/09/2021,Sociedad,Sevilla,0,0,D,0,0,D,5,6,11
+2122,26/09/2021,Sociedad,Elche,0,0,D,1,0,H,6,1,7
+2122,16/10/2021,Sociedad,Mallorca,0,0,D,1,0,H,2,6,8
+2122,31/10/2021,Sociedad,Ath Bilbao,0,0,D,1,1,D,2,7,9
+2122,21/11/2021,Sociedad,Valencia,0,0,D,0,0,D,2,4,6
+2122,04/12/2021,Sociedad,Real Madrid,0,0,D,0,2,A,5,5,10
+2122,18/12/2021,Sociedad,Villarreal,1,1,D,1,3,A,5,5,10
+2122,08/01/2022,Sociedad,Celta,1,0,H,1,0,H,6,4,10
+2122,23/01/2022,Sociedad,Getafe,0,0,D,0,0,D,7,2,9
+2122,13/02/2022,Sociedad,Granada,1,0,H,2,0,H,6,5,11
+2122,27/02/2022,Sociedad,Osasuna,0,0,D,1,0,H,6,5,11
+2122,13/03/2022,Sociedad,Alaves,0,0,D,1,0,H,6,4,10
+2122,04/04/2022,Sociedad,Espanol,0,0,D,1,0,H,6,0,6
+2122,15/04/2022,Sociedad,Betis,0,0,D,0,0,D,8,1,9
+2122,21/04/2022,Sociedad,Barcelona,0,1,A,0,1,A,5,3,8
+2122,12/05/2022,Sociedad,Cadiz,1,0,H,3,0,H,2,12,14
+2122,22/05/2022,Sociedad,Ath Madrid,0,0,D,1,2,A,3,2,5
+2223,21/08/2022,Sociedad,Barcelona,1,1,D,1,4,A,3,6,9
+2223,03/09/2022,Sociedad,Ath Madrid,0,1,A,1,1,D,7,7,14
+2223,18/09/2022,Sociedad,Espanol,2,1,H,2,1,H,4,2,6
+2223,09/10/2022,Sociedad,Villarreal,1,0,H,1,0,H,9,3,12
+2223,19/10/2022,Sociedad,Mallorca,1,0,H,1,0,H,10,7,17
+2223,30/10/2022,Sociedad,Betis,0,0,D,0,2,A,5,3,8
+2223,06/11/2022,Sociedad,Valencia,1,1,D,1,1,D,1,11,12
+2223,31/12/2022,Sociedad,Osasuna,1,0,H,2,0,H,3,2,5
+2223,14/01/2023,Sociedad,Ath Bilbao,2,1,H,3,1,H,4,2,6
+2223,05/02/2023,Sociedad,Valladolid,0,0,D,0,1,A,0,4,4
+2223,18/02/2023,Sociedad,Celta,1,0,H,1,1,D,3,7,10
+2223,03/03/2023,Sociedad,Cadiz,0,0,D,0,0,D,4,0,4
+2223,19/03/2023,Sociedad,Elche,0,0,D,2,0,H,5,3,8
+2223,08/04/2023,Sociedad,Getafe,1,0,H,2,0,H,3,2,5
+2223,22/04/2023,Sociedad,Vallecano,0,0,D,2,1,H,3,3,6
+2223,02/05/2023,Sociedad,Real Madrid,0,0,D,2,0,H,2,6,8
+2223,13/05/2023,Sociedad,Girona,2,2,D,2,2,D,7,4,11
+2223,23/05/2023,Sociedad,Almeria,1,0,H,1,0,H,10,2,12
+2223,04/06/2023,Sociedad,Sevilla,1,0,H,2,1,H,5,2,7
+2324,12/08/2023,Sociedad,Girona,1,0,H,1,1,D,4,1,5
+2324,19/08/2023,Sociedad,Celta,1,0,H,1,1,D,9,7,16
+2324,02/09/2023,Sociedad,Granada,2,1,H,5,3,H,2,5,7
+2324,24/09/2023,Sociedad,Getafe,1,2,A,4,3,H,2,1,3
+2324,30/09/2023,Sociedad,Ath Bilbao,1,0,H,3,0,H,5,7,12
+2324,21/10/2023,Sociedad,Mallorca,0,0,D,1,0,H,2,5,7
+2324,04/11/2023,Sociedad,Barcelona,0,0,D,0,1,A,8,3,11
+2324,26/11/2023,Sociedad,Sevilla,2,0,H,2,1,H,4,4,8
+2324,17/12/2023,Sociedad,Betis,0,0,D,0,0,D,3,7,10
+2324,02/01/2024,Sociedad,Alaves,0,0,D,1,1,D,6,4,10
+2324,27/01/2024,Sociedad,Vallecano,0,0,D,0,0,D,2,2,4
+2324,10/02/2024,Sociedad,Osasuna,0,0,D,0,1,A,7,4,11
+2324,23/02/2024,Sociedad,Villarreal,0,1,A,1,3,A,13,2,15
+2324,15/03/2024,Sociedad,Cadiz,1,0,H,2,0,H,8,2,10
+2324,14/04/2024,Sociedad,Almeria,1,1,D,2,2,D,5,1,6
+2324,26/04/2024,Sociedad,Real Madrid,0,1,A,0,1,A,11,3,14
+2324,04/05/2024,Sociedad,Las Palmas,2,0,H,2,0,H,7,2,9
+2324,16/05/2024,Sociedad,Valencia,1,0,H,1,0,H,3,3,6
+2324,25/05/2024,Sociedad,Ath Madrid,0,1,A,0,2,A,8,4,12
+2425,18/08/2024,Sociedad,Vallecano,0,0,D,1,2,A,10,5,15
+2425,28/08/2024,Sociedad,Alaves,1,1,D,1,2,A,8,6,14
+2425,14/09/2024,Sociedad,Real Madrid,0,0,D,0,2,A,6,6,12
+2425,28/09/2024,Sociedad,Valencia,1,0,H,3,0,H,6,4,10
+2425,06/10/2024,Sociedad,Ath Madrid,0,1,A,1,1,D,5,1,6
+2425,27/10/2024,Sociedad,Osasuna,0,2,A,0,2,A,14,4,18

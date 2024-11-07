@@ -1,0 +1,45 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2021,12/09/2020,Goztep,Denizlispor,3,0,H,5,1,H,4,6,10
+2021,26/09/2020,Goztep,Gaziantep,0,1,A,2,2,D,2,4,6
+2021,18/10/2020,Goztep,Fenerbahce,1,2,A,2,3,A,4,7,11
+2021,22/11/2020,Goztep,Ankaragucu,1,0,H,3,1,H,7,6,13
+2021,05/12/2020,Goztep,Kayserispor,0,0,D,1,1,D,6,4,10
+2021,09/12/2020,Goztep,Alanyaspor,0,0,D,1,0,H,4,6,10
+2021,19/12/2020,Goztep,Hatayspor,0,0,D,0,1,A,2,3,5
+2021,26/12/2020,Goztep,Karagumruk,1,0,H,1,1,D,6,8,14
+2021,09/01/2021,Goztep,Antalyaspor,0,0,D,0,1,A,8,5,13
+2021,19/01/2021,Goztep,Genclerbirligi,3,0,H,4,0,H,2,1,3
+2021,04/02/2021,Goztep,Yeni Malatyaspor,1,1,D,2,2,D,10,2,12
+2021,14/02/2021,Goztep,Buyuksehyr,1,0,H,2,1,H,3,5,8
+2021,28/02/2021,Goztep,Kasimpasa,1,0,H,1,0,H,3,4,7
+2021,08/03/2021,Goztep,Erzurum BB,1,0,H,3,1,H,7,2,9
+2021,20/03/2021,Goztep,Sivasspor,0,4,A,3,5,A,8,3,11
+2021,06/04/2021,Goztep,Rizespor,0,0,D,2,0,H,5,1,6
+2021,17/04/2021,Goztep,Galatasaray,1,2,A,1,3,A,3,8,11
+2021,28/04/2021,Goztep,Trabzonspor,1,0,H,1,1,D,7,2,9
+2021,08/05/2021,Goztep,Konyaspor,0,0,D,0,1,A,5,3,8
+2021,15/05/2021,Goztep,Besiktas,1,1,D,1,2,A,3,6,9
+2122,22/08/2021,Goztep,Yeni Malatyaspor,0,0,D,0,1,A,4,1,5
+2122,12/09/2021,Goztep,Buyuksehyr,0,1,A,2,1,H,2,6,8
+2122,22/09/2021,Goztep,Hatayspor,0,1,A,0,2,A,9,3,12
+2122,02/10/2021,Goztep,Giresunspor,0,0,D,0,1,A,8,3,11
+2122,23/10/2021,Goztep,Trabzonspor,0,0,D,0,1,A,1,2,3
+2122,07/11/2021,Goztep,Konyaspor,0,1,A,0,2,A,6,5,11
+2122,29/11/2021,Goztep,Fenerbahce,1,0,H,1,1,D,6,3,9
+2122,06/12/2021,Goztep,Gaziantep,2,0,H,2,1,H,7,3,10
+2122,19/12/2021,Goztep,Karagumruk,0,0,D,0,1,A,3,3,6
+2122,26/12/2021,Goztep,Ad. Demirspor,0,1,A,1,1,D,7,3,10
+2122,09/01/2022,Goztep,Antalyaspor,1,0,H,4,0,H,1,12,13
+2122,19/01/2022,Goztep,Sivasspor,1,0,H,2,1,H,5,1,6
+2122,06/02/2022,Goztep,Altay,0,1,A,0,2,A,6,6,12
+2122,21/02/2022,Goztep,Galatasaray,1,1,D,2,3,A,5,6,11
+2122,05/03/2022,Goztep,Kasimpasa,1,1,D,2,3,A,4,4,8
+2122,19/03/2022,Goztep,Alanyaspor,0,0,D,0,2,A,2,4,6
+2122,09/04/2022,Goztep,Kayserispor,1,2,A,1,2,A,6,4,10
+2122,01/05/2022,Goztep,Rizespor,1,3,A,1,7,A,7,1,8
+2122,15/05/2022,Goztep,Besiktas,0,2,A,0,2,A,5,1,6
+2425,17/08/2024,Goztep,Fenerbahce,0,2,A,2,2,D,5,5,10
+2425,31/08/2024,Goztep,Bodrumspor,2,0,H,2,0,H,6,2,8
+2425,23/09/2024,Goztep,Kayserispor,2,0,H,3,0,H,6,4,10
+2425,05/10/2024,Goztep,Sivasspor,2,0,H,3,2,H,4,4,8
+2425,26/10/2024,Goztep,Trabzonspor,0,0,D,2,1,H,3,4,7

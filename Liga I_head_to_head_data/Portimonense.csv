@@ -1,0 +1,69 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2021,21/09/2020,Portimonense,Pacos Ferreira,0,1,A,1,1,D,4,9,13
+2021,04/10/2020,Portimonense,Sp Lisbon,0,2,A,0,2,A,7,2,9
+2021,01/11/2020,Portimonense,Santa Clara,0,1,A,1,2,A,7,5,12
+2021,29/11/2020,Portimonense,Nacional,0,0,D,1,0,H,7,3,10
+2021,18/12/2020,Portimonense,Famalicao,0,0,D,0,0,D,4,1,5
+2021,04/01/2021,Portimonense,Farense,0,0,D,2,0,H,5,1,6
+2021,18/01/2021,Portimonense,Belenenses,1,0,H,1,0,H,7,2,9
+2021,30/01/2021,Portimonense,Boavista,1,1,D,1,2,A,4,2,6
+2021,14/02/2021,Portimonense,Gil Vicente,2,1,H,4,1,H,6,4,10
+2021,28/02/2021,Portimonense,Maritimo,0,0,D,0,0,D,6,4,10
+2021,06/03/2021,Portimonense,Tondela,2,0,H,3,0,H,3,3,6
+2021,20/03/2021,Portimonense,Porto,0,1,A,1,2,A,2,4,6
+2021,09/04/2021,Portimonense,Guimaraes,1,0,H,3,0,H,3,8,11
+2021,22/04/2021,Portimonense,Benfica,1,1,D,1,5,A,5,4,9
+2021,01/05/2021,Portimonense,Rio Ave,0,0,D,0,0,D,6,10,16
+2021,10/05/2021,Portimonense,Moreirense,1,1,D,1,2,A,2,6,8
+2021,19/05/2021,Portimonense,Sp Braga,0,0,D,0,0,D,4,5,9
+2122,15/08/2021,Portimonense,Gil Vicente,0,0,D,0,1,A,5,4,9
+2122,29/08/2021,Portimonense,Pacos Ferreira,0,1,A,0,1,A,7,3,10
+2122,17/09/2021,Portimonense,Santa Clara,2,1,H,2,1,H,4,2,6
+2122,26/09/2021,Portimonense,Vizela,0,0,D,0,0,D,7,5,12
+2122,24/10/2021,Portimonense,Estoril,0,0,D,0,2,A,6,1,7
+2122,06/11/2021,Portimonense,Belenenses,1,0,H,2,0,H,6,5,11
+2122,03/12/2021,Portimonense,Porto,0,1,A,0,3,A,3,6,9
+2122,18/12/2021,Portimonense,Arouca,0,0,D,1,1,D,5,6,11
+2122,09/01/2022,Portimonense,Maritimo,0,1,A,1,2,A,7,4,11
+2122,17/01/2022,Portimonense,Guimaraes,0,1,A,1,1,D,6,4,10
+2122,30/01/2022,Portimonense,Tondela,1,0,H,1,2,A,6,2,8
+2122,12/02/2022,Portimonense,Boavista,1,1,D,1,1,D,6,6,12
+2122,05/03/2022,Portimonense,Benfica,1,1,D,1,2,A,2,8,10
+2122,20/03/2022,Portimonense,Sp Braga,0,2,A,1,2,A,7,9,16
+2122,10/04/2022,Portimonense,Famalicao,1,0,H,1,0,H,7,2,9
+2122,23/04/2022,Portimonense,Moreirense,1,0,H,1,0,H,6,6,12
+2122,07/05/2022,Portimonense,Sp Lisbon,2,1,H,2,3,A,1,8,9
+2223,07/08/2022,Portimonense,Boavista,0,1,A,0,1,A,7,1,8
+2223,21/08/2022,Portimonense,Guimaraes,0,0,D,2,1,H,6,11,17
+2223,04/09/2022,Portimonense,Famalicao,0,0,D,1,0,H,7,5,12
+2223,16/09/2022,Portimonense,Chaves,1,0,H,1,0,H,9,7,16
+2223,08/10/2022,Portimonense,Porto,0,1,A,0,2,A,1,5,6
+2223,30/10/2022,Portimonense,Estoril,0,1,A,1,1,D,11,7,18
+2223,13/11/2022,Portimonense,Sp Braga,1,0,H,1,2,A,2,8,10
+2223,28/12/2022,Portimonense,Casa Pia,1,1,D,1,2,A,1,11,12
+2223,13/01/2023,Portimonense,Santa Clara,0,0,D,0,0,D,6,1,7
+2223,06/02/2023,Portimonense,Pacos Ferreira,0,0,D,1,0,H,10,2,12
+2223,18/02/2023,Portimonense,Maritimo,0,1,A,2,1,H,8,1,9
+2223,04/03/2023,Portimonense,Sp Lisbon,0,0,D,0,1,A,3,7,10
+2223,18/03/2023,Portimonense,Vizela,0,0,D,0,1,A,4,6,10
+2223,08/04/2023,Portimonense,Rio Ave,0,1,A,2,2,D,8,4,12
+2223,23/04/2023,Portimonense,Gil Vicente,0,0,D,1,0,H,1,12,13
+2223,13/05/2023,Portimonense,Benfica,1,3,A,1,5,A,3,5,8
+2223,27/05/2023,Portimonense,Arouca,0,0,D,0,2,A,3,7,10
+2324,19/08/2023,Portimonense,Boavista,0,3,A,1,4,A,11,2,13
+2324,02/09/2023,Portimonense,Estrela,1,1,D,1,1,D,3,7,10
+2324,24/09/2023,Portimonense,Benfica,0,2,A,1,3,A,3,4,7
+2324,28/10/2023,Portimonense,Estoril,1,0,H,1,0,H,6,4,10
+2324,11/11/2023,Portimonense,Chaves,2,0,H,2,1,H,3,8,11
+2324,09/12/2023,Portimonense,Famalicao,0,1,A,1,1,D,2,5,7
+2324,30/12/2023,Portimonense,Sp Lisbon,0,0,D,1,2,A,0,12,12
+2324,12/01/2024,Portimonense,Farense,0,0,D,1,0,H,4,4,8
+2324,21/01/2024,Portimonense,Gil Vicente,0,1,A,0,2,A,3,8,11
+2324,03/02/2024,Portimonense,Arouca,0,0,D,1,2,A,3,2,5
+2324,17/02/2024,Portimonense,Guimaraes,0,1,A,1,1,D,9,6,15
+2324,03/03/2024,Portimonense,Vizela,0,0,D,0,0,D,1,8,9
+2324,08/03/2024,Portimonense,Porto,0,1,A,0,3,A,1,13,14
+2324,01/04/2024,Portimonense,Sp Braga,1,2,A,3,5,A,4,6,10
+2324,14/04/2024,Portimonense,Casa Pia,2,1,H,2,2,D,5,8,13
+2324,28/04/2024,Portimonense,Moreirense,0,0,D,0,2,A,5,5,10
+2324,11/05/2024,Portimonense,Rio Ave,0,1,A,2,2,D,12,4,16

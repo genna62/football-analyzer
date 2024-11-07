@@ -1,30 +1,33 @@
 import os
 import requests
 from bs4 import BeautifulSoup
+from utils.delete import delete_folder_and_contents
 
 # Base URL for downloads
 BASE_URL = "https://www.football-data.co.uk/"
 
 # Dictionary mapping league codes to names
 league_code = {
-    'E0': 'Premier League',
-    'E1': 'Championship',
-    'E2': 'League 1',
-    'E3': 'League 2',
-    'EC': 'Conference',
+    # 'E0': 'Premier League',
+    # 'E1': 'Championship',
+    # 'E2': 'League 1',
+    # 'E3': 'League 2',
+    # 'EC': 'Conference',
+    # 'SP1': 'La Liga 1',
+    # 'SP2': 'La Liga 2',
+    # 'F1': 'Ligue 1',
+    # 'F2': 'Ligue 2',
+    # 'I1': 'Serie A',
+    # 'I2': 'Serie B',
+    # 'D1': 'Bundesliga 1',
+    # 'D2': 'Bundesliga 2',
+    'P1': 'Liga I',
+    'T1': 'Futbol Ligi 1'
+    
     # Add more leagues as needed
 }
 
-def delete_file_if_exists(file_path):
-    """Delete the file at file_path if it exists."""
-    if os.path.isfile(file_path):
-        try:
-            os.remove(file_path)
-            print(f"Deleted existing file: {file_path}")
-        except Exception as e:
-            print(f"Error deleting file {file_path}: {e}")
-    else:
-        print(f"No file to delete at: {file_path}")
+
 
 def download_file(url, year, league_code_key):
     league_name = league_code.get(league_code_key, 'Unknown League')
@@ -36,9 +39,6 @@ def download_file(url, year, league_code_key):
     # Create the file name
     file_name = f"{league_name.replace(' ', '_')}_{year}.csv"
     file_path = os.path.join(base_dir, file_name)
-
-    # Check if the file exists and delete it if it does
-    delete_file_if_exists(file_path)
 
     # Download the file
     response = requests.get(url)
@@ -77,6 +77,11 @@ def scrape_links(page_url):
     except requests.exceptions.RequestException as e:
         print(f"An error occurred: {e}")
 
-# Example usage
-page_url = f'{BASE_URL}englandm.php'
-scrape_links(page_url)
+
+if __name__ == "__main__":
+    # Uncomment if wanna delete the previous data and download all over again
+    # folder_to_delete = 'data'  # Specify the path to your folder
+    # delete_folder_and_contents(folder_to_delete)
+    page_urls = [f'{BASE_URL}portugalm.php', f'{BASE_URL}turkeym.php']
+    for page_url in page_urls:
+        scrape_links(page_url)

@@ -1,0 +1,19 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2223,14/08/2022,Umraniyespor,Antalyaspor,0.0,0.0,D,0,1,A,4.0,5.0,9.0
+2223,19/08/2022,Umraniyespor,Galatasaray,0.0,0.0,D,0,1,A,3.0,5.0,8.0
+2223,02/09/2022,Umraniyespor,Trabzonspor,0.0,0.0,D,0,1,A,7.0,5.0,12.0
+2223,17/09/2022,Umraniyespor,Kasimpasa,0.0,1.0,A,1,2,A,11.0,5.0,16.0
+2223,09/10/2022,Umraniyespor,Kayserispor,0.0,1.0,A,2,2,D,3.0,4.0,7.0
+2223,22/10/2022,Umraniyespor,Karagumruk,1.0,1.0,D,1,3,A,5.0,4.0,9.0
+2223,04/11/2022,Umraniyespor,Alanyaspor,2.0,0.0,H,3,1,H,4.0,7.0,11.0
+2223,23/12/2022,Umraniyespor,Buyuksehyr,1.0,1.0,D,1,3,A,1.0,2.0,3.0
+2223,03/01/2023,Umraniyespor,Hatayspor,1.0,1.0,D,2,2,D,5.0,2.0,7.0
+2223,15/01/2023,Umraniyespor,Istanbulspor,0.0,2.0,A,0,2,A,12.0,2.0,14.0
+2223,23/01/2023,Umraniyespor,Fenerbahce,0.0,0.0,D,1,2,A,1.0,6.0,7.0
+2223,25/02/2023,Umraniyespor,Gaziantep,,,,3,0,H,,,
+2223,26/02/2023,Umraniyespor,Ad. Demirspor,0.0,0.0,D,1,1,D,7.0,7.0,14.0
+2223,02/04/2023,Umraniyespor,Konyaspor,0.0,0.0,D,2,2,D,4.0,7.0,11.0
+2223,22/04/2023,Umraniyespor,Besiktas,0.0,1.0,A,0,2,A,3.0,9.0,12.0
+2223,07/05/2023,Umraniyespor,Sivasspor,2.0,1.0,H,4,1,H,7.0,7.0,14.0
+2223,21/05/2023,Umraniyespor,Ankaragucu,1.0,1.0,D,1,2,A,4.0,9.0,13.0
+2223,03/06/2023,Umraniyespor,Giresunspor,0.0,1.0,A,0,1,A,5.0,4.0,9.0

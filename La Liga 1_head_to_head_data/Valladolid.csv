@@ -1,0 +1,45 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2021,13/09/2020,Valladolid,Sociedad,1,0,H,1,1,D,5,3,8
+2021,27/09/2020,Valladolid,Celta,0,1,A,1,1,D,4,1,5
+2021,03/10/2020,Valladolid,Eibar,1,1,D,1,2,A,3,4,7
+2021,25/10/2020,Valladolid,Alaves,0,0,D,0,2,A,2,4,6
+2021,08/11/2020,Valladolid,Ath Bilbao,1,0,H,2,1,H,2,11,13
+2021,27/11/2020,Valladolid,Levante,0,0,D,1,1,D,3,11,14
+2021,11/12/2020,Valladolid,Osasuna,1,2,A,3,2,H,3,3,6
+2021,22/12/2020,Valladolid,Barcelona,0,2,A,0,3,A,4,5,9
+2021,10/01/2021,Valladolid,Valencia,0,0,D,0,1,A,0,4,4
+2021,19/01/2021,Valladolid,Elche,0,2,A,2,2,D,4,5,9
+2021,29/01/2021,Valladolid,Huesca,0,1,A,1,3,A,6,7,13
+2021,20/02/2021,Valladolid,Real Madrid,0,0,D,0,1,A,4,5,9
+2021,06/03/2021,Valladolid,Getafe,2,1,H,2,1,H,1,6,7
+2021,20/03/2021,Valladolid,Sevilla,1,0,H,1,1,D,2,8,10
+2021,11/04/2021,Valladolid,Granada,1,0,H,1,2,A,2,4,6
+2021,24/04/2021,Valladolid,Cadiz,1,0,H,1,1,D,5,7,12
+2021,02/05/2021,Valladolid,Betis,0,0,D,1,1,D,3,2,5
+2021,13/05/2021,Valladolid,Villarreal,0,0,D,0,2,A,3,6,9
+2021,22/05/2021,Valladolid,Ath Madrid,1,0,H,1,2,A,4,6,10
+2223,13/08/2022,Valladolid,Villarreal,0,0,D,0,3,A,4,5,9
+2223,05/09/2022,Valladolid,Almeria,0,0,D,1,0,H,2,8,10
+2223,16/09/2022,Valladolid,Cadiz,0,0,D,0,1,A,8,2,10
+2223,09/10/2022,Valladolid,Betis,0,0,D,0,0,D,3,1,4
+2223,19/10/2022,Valladolid,Celta,1,1,D,4,1,H,3,7,10
+2223,22/10/2022,Valladolid,Sociedad,1,0,H,1,0,H,4,10,14
+2223,05/11/2022,Valladolid,Elche,1,0,H,2,1,H,8,4,12
+2223,30/12/2022,Valladolid,Real Madrid,0,0,D,0,2,A,5,9,14
+2223,14/01/2023,Valladolid,Vallecano,0,0,D,0,1,A,4,8,12
+2223,29/01/2023,Valladolid,Valencia,0,0,D,1,0,H,4,7,11
+2223,12/02/2023,Valladolid,Osasuna,0,0,D,0,0,D,10,4,14
+2223,05/03/2023,Valladolid,Espanol,1,0,H,2,1,H,9,6,15
+2223,17/03/2023,Valladolid,Ath Bilbao,0,1,A,1,3,A,2,9,11
+2223,09/04/2023,Valladolid,Mallorca,1,0,H,3,3,D,1,2,3
+2223,22/04/2023,Valladolid,Girona,1,0,H,1,0,H,5,7,12
+2223,30/04/2023,Valladolid,Ath Madrid,1,3,A,2,5,A,9,1,10
+2223,14/05/2023,Valladolid,Sevilla,0,0,D,0,3,A,8,3,11
+2223,23/05/2023,Valladolid,Barcelona,2,0,H,3,1,H,2,6,8
+2223,04/06/2023,Valladolid,Getafe,0,0,D,0,0,D,6,1,7
+2425,19/08/2024,Valladolid,Espanol,1,0,H,1,0,H,3,2,5
+2425,28/08/2024,Valladolid,Leganes,0,0,D,0,0,D,4,4,8
+2425,21/09/2024,Valladolid,Sociedad,0,0,D,0,0,D,5,7,12
+2425,27/09/2024,Valladolid,Mallorca,0,0,D,1,2,A,7,4,11
+2425,05/10/2024,Valladolid,Vallecano,0,0,D,1,2,A,5,13,18
+2425,26/10/2024,Valladolid,Villarreal,0,1,A,1,2,A,4,6,10

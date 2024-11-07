@@ -1,0 +1,57 @@
+Season,Date,HomeTeam,AwayTeam,HalfTimeHomeScore,HalfTimeAwayScore,HalfTimeResult,FullTimeHomeScore,FullTimeAwayScore,FullTimeResult,HomeCorners,AwayCorners,TotalCorners
+2122,13/08/2021,Estoril,Guimaraes,0,0,D,0,0,D,4,9,13
+2122,27/08/2021,Estoril,Maritimo,1,1,D,2,1,H,1,4,5
+2122,19/09/2021,Estoril,Sp Lisbon,0,0,D,0,1,A,7,9,16
+2122,03/10/2021,Estoril,Gil Vicente,2,1,H,2,2,D,1,5,6
+2122,30/10/2021,Estoril,Benfica,0,1,A,1,1,D,4,10,14
+2122,29/11/2021,Estoril,Santa Clara,1,1,D,2,2,D,4,3,7
+2122,17/12/2021,Estoril,Famalicao,2,1,H,2,2,D,7,2,9
+2122,08/01/2022,Estoril,Porto,2,0,H,2,3,A,2,7,9
+2122,27/01/2022,Estoril,Arouca,1,0,H,1,2,A,4,9,13
+2122,31/01/2022,Estoril,Pacos Ferreira,0,0,D,0,0,D,3,1,4
+2122,12/02/2022,Estoril,Tondela,0,0,D,1,0,H,1,2,3
+2122,27/02/2022,Estoril,Boavista,1,1,D,2,3,A,5,1,6
+2122,12/03/2022,Estoril,Portimonense,1,0,H,2,0,H,6,10,16
+2122,02/04/2022,Estoril,Vizela,1,1,D,1,2,A,7,2,9
+2122,18/04/2022,Estoril,Sp Braga,0,0,D,0,0,D,7,5,12
+2122,24/04/2022,Estoril,Belenenses,2,0,H,2,2,D,2,8,10
+2122,07/05/2022,Estoril,Moreirense,0,0,D,1,0,H,2,8,10
+2223,06/08/2022,Estoril,Famalicao,2,0,H,2,0,H,1,2,3
+2223,19/08/2022,Estoril,Rio Ave,1,0,H,2,2,D,1,5,6
+2223,02/09/2022,Estoril,Sp Lisbon,0,2,A,0,2,A,2,7,9
+2223,17/09/2022,Estoril,Porto,1,0,H,1,1,D,4,11,15
+2223,22/10/2022,Estoril,Sp Braga,0,2,A,0,2,A,5,7,12
+2223,06/11/2022,Estoril,Benfica,0,3,A,1,5,A,2,11,13
+2223,16/01/2023,Estoril,Casa Pia,1,0,H,2,0,H,4,4,8
+2223,04/02/2023,Estoril,Guimaraes,0,1,A,0,1,A,4,5,9
+2223,09/02/2023,Estoril,Boavista,0,1,A,2,1,H,11,0,11
+2223,18/02/2023,Estoril,Pacos Ferreira,0,2,A,1,3,A,5,7,12
+2223,04/03/2023,Estoril,Vizela,0,2,A,0,3,A,8,0,8
+2223,18/03/2023,Estoril,Chaves,0,1,A,0,2,A,3,7,10
+2223,31/03/2023,Estoril,Gil Vicente,1,0,H,1,0,H,5,5,10
+2223,15/04/2023,Estoril,Portimonense,0,0,D,0,1,A,10,5,15
+2223,30/04/2023,Estoril,Santa Clara,2,0,H,3,0,H,3,4,7
+2223,15/05/2023,Estoril,Arouca,0,0,D,2,0,H,4,2,6
+2223,27/05/2023,Estoril,Maritimo,1,0,H,3,1,H,4,5,9
+2324,20/08/2023,Estoril,Rio Ave,0,0,D,2,0,H,3,3,6
+2324,03/09/2023,Estoril,Boavista,1,2,A,1,2,A,10,5,15
+2324,23/09/2023,Estoril,Vizela,0,0,D,2,2,D,5,3,8
+2324,07/10/2023,Estoril,Benfica,0,0,D,0,1,A,4,7,11
+2324,10/11/2023,Estoril,Casa Pia,2,0,H,4,0,H,4,7,11
+2324,10/12/2023,Estoril,Chaves,1,0,H,4,0,H,3,6,9
+2324,30/12/2023,Estoril,Farense,2,0,H,4,0,H,10,8,18
+2324,13/01/2024,Estoril,Moreirense,0,2,A,1,3,A,8,1,9
+2324,20/01/2024,Estoril,Arouca,1,2,A,1,2,A,7,4,11
+2324,04/02/2024,Estoril,Estrela,0,0,D,1,0,H,6,1,7
+2324,18/02/2024,Estoril,Gil Vicente,0,0,D,1,3,A,2,4,6
+2324,02/03/2024,Estoril,Guimaraes,0,3,A,1,3,A,9,4,13
+2324,15/03/2024,Estoril,Portimonense,0,0,D,1,0,H,2,7,9
+2324,30/03/2024,Estoril,Porto,0,0,D,1,0,H,1,10,11
+2324,13/04/2024,Estoril,Sp Braga,0,0,D,0,1,A,2,3,5
+2324,28/04/2024,Estoril,Famalicao,1,0,H,1,0,H,3,6,9
+2324,11/05/2024,Estoril,Sp Lisbon,0,0,D,0,1,A,2,9,11
+2425,11/08/2024,Estoril,Santa Clara,1,1,D,1,4,A,1,3,4
+2425,25/08/2024,Estoril,Gil Vicente,0,0,D,0,0,D,8,1,9
+2425,15/09/2024,Estoril,Nacional,1,0,H,1,0,H,3,4,7
+2425,27/09/2024,Estoril,Sp Lisbon,0,2,A,0,3,A,1,14,15
+2425,26/10/2024,Estoril,Arouca,2,1,H,4,1,H,6,9,15
